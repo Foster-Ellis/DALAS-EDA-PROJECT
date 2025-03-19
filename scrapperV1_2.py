@@ -13,7 +13,6 @@ uls = content.find_all("ul") if content else []
 
 for ul in uls:
     for li in ul.find_all("li"):
-        #Full text
         full_text = li.get_text()
         inventors_list_general.append(full_text)
 
@@ -30,7 +29,6 @@ uls = content.find_all("ul") if content else []
 
 for ul in uls:
     for li in ul.find_all("li"):
-        #Full text
         full_text = li.get_text()
         inventors_list.append((full_text))
 
@@ -38,3 +36,6 @@ for ul in uls:
 del inventors_list_general[0:28]
 del inventors_list_general[1073:]
 del inventors_list[341:]
+
+print(inventors_list)
+print(inventors_list_general)
