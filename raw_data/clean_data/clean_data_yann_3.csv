@@ -1,0 +1,307 @@
+Year,Country,Name of Invention,Name of Inventor,Category
+1709,Italy,The First Piano,Bartolomeo Cristofori,Music
+1709,Poland,Alcohol Thermometer,Daniel Gabriel Fahrenheit,Physics
+1712,England,The First Commercial Steam Engine,Thomas Newcomen,Mechanical Engineering
+1730,USA; England,Octant,Thomas Godfrey; John Hadley,Marine Navigation
+1733,England,Flying Shuttle,John Kay,Textile Machinery
+1738,England,Mechanized Cotton Spinning Machine,Lewis Paul; John Wyatt,Textile Machinery
+1742,USA,Franklin Stove,Benjamin Franklin,Domestic Technology
+1745,Netherlands,Leyden Jar,Pieter van Musschenbroek; Ewald Georg von Kleist,Electricity
+1746,England,Lead Chamber Process,John Roebuck,Chemical Engineering
+1752,USA,Lightning Rod,Benjamin Franklin,Electricity
+1755,Scotland,Artificial Refrigeration Machine,William Cullen,Refrigeration Technology
+1760,France,Roller Skates,John Joseph Merlin,Recreational Technology
+1764,England,Spinning Jenny,James Hargreaves,Textile Machinery
+1765,Scotland,Improved Steam Engine,James Watt,Mechanical Engineering
+1767,England,Carbonated Water Production Method,Joseph Priestley,Chemistry
+1769,France,Steam-Powered Vehicle,Nicolas-Joseph Cugnot,Transportation
+1770,England,Weighing Scale,Richard Salter,Measurement Instrument
+1774,England,Boring Machine,John Wilkinson,Machine Tools
+1775,England,Screw-Cutting Lathe,Jesse Ramsden,Machine Tools
+1776,England,Mechanical Air Compressor,John Wilkinson,Industrial Machinery
+1778,England,Lever Tumbler Lock,Robert Barron,Lock Technology
+1780,India,Metal-Cylinder Rockets,Hyder Ali,Rocketry
+1783,France,Steamboat,Claude de Jouffroy,Transportation
+1783,France,Manned Hot Air Balloon,Joseph-Michel Montgolfier; Jacques-Étienne Montgolfier,Aerospace
+1783,France,Modern Parachute,Louis-Sébastien Lenormand,Aerospace
+1785,Netherlands,Electrolysis Technique,Martinus van Marum,Electrochemistry
+1786,Scotland,Threshing Machine,Andrew Meikle,Agricultural Machinery
+1789,England,Power Loom,Edmund Cartwright,Textile Machinery
+1790,England,Sewing Machine,Thomas Saint,Textile Machinery
+1792,France,Semaphore Telegraph,Claude Chappe,Communications
+1793,USA,Cotton Gin,Eli Whitney,Textile Machinery
+1795,England,Hydraulic Press,Joseph Bramah,Mechanical Engineering
+1796,Germany,Lithography Printing Technique,Alois Senefelder,Printing Technology
+1797,England,Plywood,Samuel Bentham,Materials Technology
+1799,England,Motorized Air Compressor,George Medhurst,Mechanical Engineering
+1799,France,Paper Machine,Louis-Nicolas Robert,Industrial Machinery
+1800,Italy,Voltaic Pile,Alessandro Volta,Electricity
+1802,England,Arc Lamp,Humphry Davy,Electricity
+1804,Germany,Morphine Discovery,Friedrich Sertürner,Pharmaceuticals
+1804,France,Jacquard Loom,Joseph Marie Jacquard,Textile Machinery
+1804,United Kingdom,Steam Locomotive,Richard Trevithick,Transportation
+1804,Japan,Modern General Anesthetic (Tsūsensan),Hanaoka Seishū,Medicine
+1807,France,Early Internal Combustion Engine,Nicéphore Niépce,Mechanical Engineering
+1807,Switzerland,Hydrogen-Powered Automobile,François Isaac de Rivaz,Transportation
+1807,USA,Steamboat,Robert Fulton,Transportation
+1810,France,Canning Process,Nicolas Appert,Food Technology
+1810,France,First Wristwatch,Abraham-Louis Breguet,Horology
+1811,Germany,Powered Printing Press,Friedrich Koenig,Printing Technology
+1812,Ireland,Safety Lamp,William Reid Clanny,Safety Technology
+1814,England,Modern Planing Machine,James Fox,Machine Tools
+1816,France,Stethoscope,René Laennec,Medicine
+1816,England,Electric Telegraph,Francis Ronalds,Communications
+1816,Scotland,Stirling Engine,Robert Stirling,Mechanical Engineering
+1817,Germany,Dandy Horse,Baron Karl von Drais,Transportation
+1818,France,Tunnelling Shield,Marc Isambard Brunel,Civil Engineering
+1822,USA,Pattern-Tracing Lathe,Thomas Blanchard,Machine Tools
+1822,France,Heliography,Nicéphore Niépce,Photography
+1822,England,Programmable Mechanical Computer,Charles Babbage,Computing
+1823,Germany,Lighter,Johann Wolfgang Döbereiner,Domestic Technology
+1824,Germany,Bolt-Action Rifle,Johann Nikolaus von Dreyse,Firearms Technology
+1824,England,Electromagnet,William Sturgeon,Electricity
+1826,England,Friction Match,John Walker,Domestic Technology
+1826,England,Gas Stove,James Sharp,Domestic Technology
+1828,Scotland,Hot Blast Process,James Beaumont Neilson,Industrial Process
+1828,Scotland,Reaping Machine,Patrick Bell,Agricultural Machinery
+1828,Hungary,Rotary Electromechanical Machine,Ányos Jedlik,Electrical Engineering
+1829,France,Braille Reading System,Louis Braille,Assistive Technology
+1829,England,Compound Air Compressor,William Mann,Mechanical Engineering
+1829,England,Corrugated Galvanised Iron,Henry Robinson Palmer,Materials Technology
+1830,England,Lawn Mower,Edwin Budding,Agricultural Machinery
+1831,England,Electric Generator,Michael Faraday,Electricity
+1834,Germany,Practical Electric Motor,Moritz von Jacobi,Electrical Engineering
+1835,USA,Electromechanical Relay,Joseph Henry,Electrical Engineering
+1837,USA,Morse Code,Samuel Morse,Communications
+1838,Germany,Electrotyping,Moritz von Jacobi,Printing Technology
+1839,USA,Steam Shovel,William Otis,Construction Engineering
+1839,Scotland,Steam Hammer,James Nasmyth,Industrial Machinery
+1839,France,Photovoltaic Cell,Edmond Becquerel,Renewable Energy
+1839,USA,Vulcanized Rubber,Charles Goodyear,Materials Technology
+1839,France,Daguerreotype Photography,Louis Daguerre,Photography
+1840,England,Blueprint,John Herschel,Technical Drawing
+1841,Scotland,Printing Telegraph,Alexander Bain,Communications
+1842,Wales,Fuel Cell,William Robert Grove,Energy Technology
+1842,England,Superphosphate,John Bennet Lawes,Agricultural Chemistry
+1844,Germany; Canada,Wood Pulp Paper Production,Friedrich Gottlob Keller; Charles Fenerty,Paper Technology
+1844,Ireland,Hypodermic Needle,Francis Rynd,Medicine
+1845,USA,Modern Portland Cement,Isaac Charles Johnson,Construction Materials
+1846,France,Tunnel Boring Machine,Henri-Joseph Maus,Mining Technology
+1847,Italy,Nitroglycerin,Ascanio Sobrero,Explosives
+1848,USA,Pneumatic Drill,Jonathan J. Couch,Mining Technology
+1848,USA,Pin Tumbler Lock,Linus Yale Sr.,Lock Technology
+1849,USA,Repeating Rifle,Walter Hunt,Firearms Technology
+1849,USA,Francis Turbine,James B. Francis,Hydraulic Engineering
+1849,USA,Safety Pin,Walter Hunt,Domestic Technology
+1850,England,Hydraulic Accumulator,William Armstrong,Hydraulic Engineering
+1851,England,Public Flush Toilet,George Jennings,Sanitation Technology
+1852,Germany,Chemical Vapor Deposition Technique,Robert Bunsen,Materials Science
+1852,USA,Safety Brake Elevator,Elisha Otis,Vertical Transportation
+1852,France,Powered Dirigible Flight,Henri Giffard,Aerospace
+1853,France,reinforced concrete,François Coignet,Civil Engineering
+1855,United Kingdom,first practical method for color photography,James Clerk Maxwell,Physics
+1855,United Kingdom,Bessemer process,Henry Bessemer,Metallurgical Engineering
+1856,United Kingdom,parkesine (celluloid),Alexander Parkes,Materials Science
+1856,Australia,ice making machine and refrigerator,James Harrison,Refrigeration Technology
+1856,United Kingdom,mauveine,William Henry Perkin,Chemistry
+1857,Germany,Geissler tube,Heinrich Geissler,Physics
+1857,France,phonautograph,Édouard-Léon Scott de Martinville,Acoustics
+1859,France,lead acid battery,Gaston Planté,Electrochemistry
+1860,United Kingdom,carbon fibers,Joseph Swan,Materials Science
+1864,France,pasteurization process,Louis Pasteur,Biotechnology
+1865,Germany; France,Siemens-Martin process,"Carl Wilhelm Siemens; Pierre-Émile Martin",Metallurgical Engineering
+1867,Sweden,dynamite,Alfred Nobel,Chemical Engineering
+1867,United States,barbed wire,Lucien B. Smith,Agricultural Technology
+1872,Germany,polyvinyl chloride (PVC),Eugen Baumann,Chemistry
+1872,United Kingdom,stainless steel,"J.E.T. Woods; J. Clark; Harry Brearley",Metallurgical Engineering
+1873,United Kingdom,rotary kiln,Frederick Ransome,Industrial Engineering
+1873,United Kingdom,Crookes radiometer,William Crookes,Physics
+1873,Belgium,Gramme machine,Zénobe Gramme,Electrical Engineering
+1874,France,metal detector,Gustave Trouvé,Electronic Engineering
+1875,Russia,electric tram,Fyodor Pirotsky,Transportation Engineering
+1876,Germany,four-stroke cycle,Nicolaus August Otto,Mechanical Engineering
+1876,United States,telephone,Alexander Graham Bell,Communication Technology
+1877,United States,phonograph,Thomas Edison,Audio Technology
+1878,United Kingdom,rebreather,Henry Fleuss,Diving Technology
+1878,United States,Pelton wheel,Lester Allan Pelton,Mechanical Engineering
+1879,United Kingdom; United States,incandescent light bulb,"Joseph Swan; Thomas Edison",Electrical Engineering
+1881,Bulgaria,carbon arc welding,Nikolay Benardos,Welding Technology
+1884,United States,Maxim gun,Hiram Maxim,Weapon Technology
+1884,France,Poudre B,Paul Vieille,Chemistry
+1884,Ireland,modern steam turbine,Sir Charles Parsons,Mechanical Engineering
+1884,Hungary,closed core transformer and AC parallel power distribution,"Károly Zipernowsky; Ottó Bláthy; Miksa Déri",Electrical Engineering
+1885,United Kingdom,modern safety bicycle,John Kemp Starley,Transportation Engineering
+1886,Germany,zinc–carbon battery,Carl Gassner,Electrochemistry
+1886,United States; France,Hall–Héroult process,"Charles Martin Hall; Paul Héroult",Metallurgical Engineering
+1886,Germany,automobile,Karl Benz,Mechanical Engineering
+1887,Germany,Bayer process,Carl Josef Bayer,Chemical Engineering
+1887,United Kingdom,wind turbine,James Blyth,Electrical Engineering
+1887,Australia,gold cyanidation process,"John Stewart MacArthur; Robert Forrest; William Forrest",Mining Engineering
+1888,United States,ballpoint pen,John J. Loud,Mechanical Engineering
+1888,United States,Kinetoscope,"Thomas Edison; William Kennedy Dickson",Film Technology
+1888,Germany,electromagnetic wave demonstration,Heinrich Hertz,Physics
+1888,United Kingdom,pneumatic tire,John Boyd Dunlop,Mechanical Engineering
+1890,France,chlorofluorocarbons as refrigerant,Frédéric Swarts,Chemistry
+1890,United States,pre-cut cardboard box,Robert Gair,Industrial Design
+1891,United States,zipper,Whitcomb Judson,Garment Technology
+1892,France,cinematograph,Léon Bouly,Film Technology
+1892,Canada,electric oven,Thomas Ahearn,Home Appliances
+1893,Germany,diesel engine,Rudolf Diesel,Mechanical Engineering
+1893,United States,rubber glove,William Stewart Halsted,Medicine
+1895,Italy,wireless communication system,Guglielmo Marconi,Communication Technology
+1895,Germany,radiograph (X-ray),Wilhelm Conrad Röntgen,Physics
+1897,Poland; France,surgical mask,"Jan Mikulicz-Radecki; Paul Berger",Medicine
+1898,Germany,polyethylene,Hans von Pechmann,Chemistry
+1899,Sweden,"NiCd, NiFe, AgCd batteries",Waldemar Jungner,Electrochemistry
+1900,Germany,Zeppelin,Theodor Kober,Aerospace Engineering
+1901,United Kingdom; United States,vacuum cleaner,"Hubert Cecil Booth; David T. Kenney",Home Appliances
+1903,Norway,gas turbine,Ægidius Elling,Mechanical Engineering
+1903,France,laminated glass,Édouard Bénédictus,Materials Science
+1903,United States,powered airplane,"Orville Wright; Wilbur Wright",Aerospace Engineering
+1904,United Kingdom,Fleming valve,John Ambrose Fleming,Electronic Engineering
+1907,France,rotary-wing aircraft free flight,Paul Cornu,Aerospace Engineering
+1907,Belgium; United States,bakelite,Leo Baekeland,Chemistry
+1907,France,"tuyères thermopropulsives (statoreacteur / ramjet)","Maurice Roy; R. Lorin",Aerospace Engineering
+1908,Switzerland,cellophane,Jacques E. Brandenberger,Materials Science
+1909,Germany,Haber process,Fritz Haber,Chemical Engineering
+1909,France,television broadcast,"Georges Rignoux; A. Fournier",Electronic Engineering
+1911,United Kingdom,cloud chamber,Charles Thomson Rees Wilson,Physics
+1912,United States,model electric racing cars (slot cars),Lionel,Toys
+1912,United States,articulated trams,Boston Elevated Railway,Transportation Engineering
+1913,Germany,Bergius process,Friedrich Bergius,Chemical Engineering
+1913,Austria,Kaplan turbine,Viktor Kaplan,Hydraulic Engineering
+1915,United Kingdom,Martensitic stainless steel process,Harry Brearley,Metallurgical Engineering
+1915,United Kingdom; France,military tank,"Walter Wilson; William Tritton; Eugène Brillié",Military Technology
+1916,Poland,Czochralski process,Jan Czochralski,Materials Science
+1917,United States,crystal oscillator,Alexander M. Nicholson,Electronic Engineering
+1925,Germany,Fischer–Tropsch process,"Franz Fischer; Hans Tropsch",Chemical Engineering
+1926,Japan,Yagi-Uda Antenna,"Shintaro Uda; Hidetsugu Yagi",Electrical Engineering
+1926,United States,liquid fueled rocket,Robert H. Goddard,Aerospace Engineering
+1926,Ireland,Three-point hitch system,Harry Ferguson,Agricultural Engineering
+1926,United Kingdom,live television system,John Logie Baird,Electronic Engineering
+1927,United States,quartz clock,"Warren Marrison; J.W. Horton",Electronic Engineering
+1928,United Kingdom; Australia,penicillin,"Alexander Fleming; Howard Florey; Ernst Chain; Norman Heatley",Medicine
+1928,United Kingdom,turbo-jet engine,Frank Whittle,Aerospace Engineering
+1928,United States,electronic television,Philo Farnsworth,Electronic Engineering
+1929,United States,ball screw,Rudolph G. Boehm,Mechanical Engineering
+1930,United Kingdom,supersonic combusting ramjet,Frank Whittle,Aerospace Engineering
+1930,Netherlands,phase-contrast microscopy,Frits Zernike,Optics
+1931,Germany,electron microscope,Ernst Ruska,Physics
+1933,United States,FM radio,Edwin H. Armstrong,Electronic Engineering
+1933,United States,portable folding wheelchair,"Harry C. Jennings Sr.; Herbert Everest",Medical Equipment
+1935,United States,nylon,Wallace Carothers,Chemical Engineering
+1938,Germany,Z1 computer,Konrad Zuse,Computer Science
+1938,Germany; Austria,nuclear fission,"Otto Hahn; Fritz Strassmann; Lise Meitner; Otto Robert Frisch",Physics
+1939,Soviet Union,electric current defibrillator,"G. S. Yunyev / Naum Gurvich",Medicine
+1940,United States,Pu-239 isotope,Glenn Seaborg,Nuclear Science
+1940,United Kingdom,cavity magnetron,"John Randall; Harry Boot",Electronic Engineering
+1941,United Kingdom,polyester,"John Rex Whinfield; James Dickson",Chemical Engineering
+1942,Germany,V-2 rocket,Wernher von Braun,Aerospace Engineering
+1944,United States,non-infectious viral vaccine,"Jonas Salk; Thomas Francis",Medicine
+1945,United States,atomic bomb,Manhattan Project,Nuclear Weapons
+1945,United States,microwave oven,Percy Spencer,Microwave Technology
+1945,United States,radiocarbon dating,Willard Libby,Radiometric Dating
+1946,United Kingdom,ejector seat,James Martin,Aviation Technology
+1947,Hungarian; British,holography,Dennis Gabor,Optics
+1947,United States,hydraulic fracturing technology,"Floyd Farris; J.B. Clark",Oil and Gas
+1947,United States,transistor,"John Bardeen; Walter Brattain; William Shockley",Electronics
+1948,United States,atomic clock,National Bureau of Standards,Timekeeping Technology
+1948,United States,basic oxygen steelmaking,Robert Durrer,Metallurgical Engineering
+1950,Canada,video game (Bertie the Brain),Josef Kates,Video Games
+1950,Soviet Union,Tokamak (toroidal chamber with axial magnetic fields),"Igor E. Tamm; Andrei D. Sakharov",Nuclear Fusion
+1952,United Kingdom,float glass process,Alastair Pilkington,Materials Science
+1952,United States,thermonuclear weapon,United States, Nuclear Weapons
+1953,Japan,video tape recorder (helical scan),Norikazu Sawazaki,Electronics
+1954,United States,solar battery,"Calvin Souther Fuller; Daryl Chapin; Gerald Pearson",Renewable Energy
+1955,United Kingdom,hovercraft,Christopher Cockerell,Transportation Engineering
+1955,United States,intermodal container,Malcom McLean,Logistics
+1956,United States,hard disk drive,IBM,Computer Hardware
+1956,United States,Logic Theorist computer program,"Allen Newell; Herbert A. Simon; Cliff Shaw",Artificial Intelligence
+1957,United States,laser and optical amplifier,"Gordon Gould; Charles Townes",Optoelectronics
+1957,United States,personal computer (IBM 610),IBM,Computer Hardware
+1957,Soviet Union,artificial satellite (Sputnik 1),Soviet Space Program,Space Technology
+1958,United States,integrated circuit,"Jack Kilby; Robert Noyce",Electronics
+1959,Egyptian; Korean,MOSFET (MOS transistor),"Mohamed Atalla; Dawon Kahng",Semiconductor Technology
+1960,United States,first functioning laser,Theodore Maiman,Laser Technology
+1963,United States; China,electronic cigarette,"Herbert A. Gilbert; Hon Lik",Consumer Electronics
+1964,Japan,Shinkansen (high-speed rail),Japanese National Railways,Transportation Engineering
+1965,United States,Kevlar,Stephanie Kwolek,Materials Science
+1969,United Kingdom; United States,packet switching,"Donald Davies; Paul Baran",Computer Networking
+1970,United Kingdom; United States; Israel,public‐key cryptography,"James H. Ellis; Clifford Cocks; Malcolm J. Williamson; Whitfield Diffie; Martin Hellman; Ralph Merkle; Ron Rivest; Adi Shamir; Leonard Adleman",Cryptography
+1970,United States,pocket calculator,Texas Instruments,Electronics
+1971,United States; Italy,single-chip microprocessor (Intel 4004),Federico Faggin,Computer Engineering
+1971,Soviet Union,space station (Salyut 1),Soviet Space Program,Space Technology
+1971,United States,floppy disk and disk drive,IBM,Computer Hardware
+1972,United States,video game console (Magnavox Odyssey),Ralph H. Baer,Video Games
+1973,United States,fiber optic communication systems,Optelecom,Telecommunications
+1973,United States,commercial graphical user interface (GUI),Xerox PARC,Computer Interface
+1973,Switzerland,capacitive touchscreen,CERN,Touchscreen Technology
+1974,United States,Transmission Control Program,"Vinton Cerf; Robert E. Kahn",Computer Networking
+1974,United States; France; Japan,lithium-ion battery,"M. Stanley Whittingham; John B. Goodenough; Rachid Yazami; Akira Yoshino",Battery Technology
+1974,Hungary,Rubik's cube,Ernő Rubik,Toy
+1977,United States; United Kingdom,DNA sequencing method,"Walter Gilbert; Frederick Sanger",Biotechnology
+1977,Japan,self-driving car,Tsukuba Mechanical Engineering Laboratory,Automotive Technology
+1978,United States,Global Positioning System (GPS),United States Department of Defense,Navigation Technology
+1979,United States,handheld game console (Microvision),Milton Bradley,Video Games
+1979,Japan,cellular network,Nippon Telegraph and Telephone (NTT),Telecommunications
+1979,United States; United Kingdom,public dialup information/messaging services,"CompuServe; RadioShack's MicroNET; Post Office Telecommunications Prestel",Information Technology
+1980,Japan,flash memory,Fujio Masuoka,Semiconductor Technology
+1980,United States,gene mapping tool using RFLP,"Mark Skolnick; Ron Davis; Ray White; David Botstein",Genetics
+1981,United States,Space Shuttle (reusable spacecraft),NASA,Space Technology
+1981,United Kingdom,IXI digital media player,Kane Kramer,Consumer Electronics
+1981,Sweden,Nordic Mobile Telephone (NMT) system,Televerket,Telecommunications
+1981,Sweden,automatic cellular system,Comvik,Telecommunications
+1982,Japan; Dutch,CD-ROM,Sony and Philips,Data Storage
+1982,United Kingdom,direct-to-home satellite television (Sky One),British Sky Broadcasting,Television Technology
+1982,Japan,laptop computer (Epson HX-20),Epson,Computer Hardware
+1983,United States,stereolithography,Chuck Hull,3D Printing
+1983,United States,commercialization of cellular network,Bell System (Ameritech/AT&T),Telecommunications
+1984,United States,cell phone (DynaTAC 8000X),Motorola,Telecommunications
+1984,United Kingdom,DNA profiling,Alec Jeffreys,Biotechnology
+1986,United Kingdom,pocket-sized cell phone (Excell PCT105),Technophone,Telecommunications
+1989,Germany,audio compression algorithms (MP3, AAC),Karlheinz Brandenburg,Audio Technology
+1989,United Kingdom,World Wide Web,Tim Berners-Lee,Internet Technology
+1990,Japan,video game system (Neo Geo AES),SNK,Video Games
+1990,Canada,search engine (Archie),Alan Emtage,Internet Technology
+1991,United States,flash-based solid-state drive,SunDisk,Computer Hardware
+1991,Germany,SIM card,Giesecke & Devrient,Telecommunications
+1993,United States,mobile app (SIMON),IBM,Software
+1994,United States,smartphone (IBM Simon),IBM,Mobile Technology
+1994,Sweden,Bluetooth,Ericsson Mobile,Wireless Communication
+1994,Denmark,mobile game (Tetris variant on Hagenuk MT-2000),Hagenuk,Video Games
+1995,Netherlands; Japan,DVD,"Philips; Sony; Toshiba; Panasonic",Optical Storage
+1995,United States,online dating site (Match.com),Match.com,Internet Technology
+1995,United States,online food ordering service (Waiter.com),Waiter.com,Internet Technology
+1996,United States,dense wavelength-division multiplexing system,"Ciena Corporation; Sprint",Telecommunications
+1996,Finland,mobile web (Nokia 9000 Communicator),Nokia,Mobile Technology
+1996,United States,social media sites (Bolt; Six Degrees),"Bolt; Six Degrees",Internet Technology
+1996,United States,BRACAnalysis genetic test,Myriad Genetics,Biotechnology
+1997,United States,weblog (blog),"Jorn Barger; Peter Merholz",Internet Technology
+1998,South Korea,portable MP3 player,SaeHan Information Systems,Consumer Electronics
+1998,United States,search engine (Google),Google,Internet Technology
+1999,United States,digital video recorder (TiVo),Xperi,Consumer Electronics
+1999,Japan,integrated online app store (i-mode),NTT DoCoMo,Mobile Technology
+2000,Japan,Blu-ray optical disc format,Sony,Optical Storage
+2000,United States,geocaching,Dave Ulmer,Recreational Technology
+2004,United States,podcast,"Adam Curry; Dave Winer",Internet Technology
+2005,United States,video-streaming site (YouTube),YouTube,Internet Technology
+2007,United States,video-on-demand service,Netflix,Internet Technology
+2007,United States,iPhone,Apple Inc.,Mobile Technology
+2007,United Kingdom,banking app,The Bank of Scotland,Financial Technology
+2007,Germany,music on-demand service (SoundCloud),SoundCloud,Internet Technology
+2007,United States,e-reader (Kindle),Amazon (Jeff Bezos),Consumer Electronics
+2008,Unknown,blockchain,Satoshi Nakamoto,Cryptography
+2010,Japan,solar sail spacecraft (IKAROS),JAXA,Space Technology
+2010,United States,quantum machine,IBM,Quantum Computing
+2010,United States,synthetic organism (Mycoplasma laboratorium),J. Craig Venter Institute,Biotechnology
+2011,United States,HIV treatment as prevention (HPTN 052),HPTN 052 Study Group,Medicine
+2013,Multiple,cancer immunotherapy,Multiple,Medicine
+2014,United States,NFT (Quantum),Kevin McCoy; Anil Dash,Blockchain Technology
+2015,United States; France,CRISPR genome-editing method,"Jennifer Doudna; Emmanuelle Charpentier",Biotechnology
+2017,United States,transformer architecture,Google,Artificial Intelligence
+2018,Multiple,single-cell sequencing,Multiple,Biotechnology
+2019,United States,integrated quantum computing system (IBM Q System One),IBM,Quantum Computing
+2020,United States; Germany,mRNA vaccine for COVID-19,Pfizer; BioNTech,Medicine
+2020,United States,GPT-3 (AI language model),OpenAI,Artificial Intelligence
+2021,United States,COVID pill,Pfizer,Medicine
+2022,United States,ChatGPT,OpenAI,Artificial Intelligence

@@ -1,0 +1,104 @@
+Year,Country,Name of Invention,Name of Inventor,Category
+1900,Germany,Quantum theory proposed,Planck,Physics
+1901,Austrian-American,Discovery of human blood groups,Landsteiner,Medicine
+1905,Germany,Wave-particle duality of light,Einstein,Physics
+1905,Germany,Special theory of relativity,Einstein,Physics
+1906,United Kingdom,Existence of vitamins proposed,Hopkins,Biochemistry
+1906,United Kingdom,Evidence that Earth has a core,Oldham,Geophysics
+1908,Germany,Synthesis of ammonia from its elements,Haber,Chemistry
+1909,United Kingdom,Idea of genetic disease introduced,Garrod,Medicine
+1909,Croatia,Boundary between Earth's crust and mantle identified,Mohorovicic,Geology
+1909,USA,Discovery of Burgess Shale: ancient invertebrate fossils,Walcott,Paleontology
+1910,USA,First mapping of a gene to a chromosome,"Morgan and others",Genetics
+1911,New Zealand,Discovery of the atomic nucleus,Rutherford,Physics
+1911,Netherlands,Superconductivity discovered,Onnes,Physics
+1912,Austria,Discovery of cosmic rays,Hess,Physics
+1912,Germany,Idea of continental drift presented,Wegener,Geology
+1914,"United Kingdom; Germany",First steps in elucidating chemical transmission of nerve impulses: neurotransmitters,"Dale; Barger; Loewi",Neuroscience
+1914,Serbia,Astronomical theory of climate change,Milankovitch,Climatology
+1915,Germany,General theory of relativity,Einstein,Physics
+1918,"United Kingdom; USA",Synthesis of genetics with the theory of evolution by natural selection (neodarwinism),"Fisher; Haldane; Wright",Evolutionary Biology
+1921,Canada,Isolation of insulin,"Banting & Best",Medicine
+1923,USA,Nature of galaxies discovered,Hubble,Astronomy
+1925,Australia,Description of Australopithecus africanus,Dart,Anthropology
+1925,Germany; Austria,Matrix and wave formulations of quantum mechanics,"Heisenberg; Schrödinger",Physics
+1927,USA,Matter is proved to be wavelike,"Davisson & Germer",Physics
+1928,United Kingdom,Discovery of penicillin,Fleming,Medicine
+1929,USA,Expansion of the Universe established,Hubble,Astronomy
+1929,Japan,First suggestion that Earth's magnetic field reverses,Matuyama,Geophysics
+1930,United Kingdom,First absolute geological timescale,Holmes,Geology
+1930,USA,Theory of chemical bonds developed,Pauling,Chemistry
+1930,Austria; Netherlands,Establishment of the scientific study of animal behavior,"von Frisch; Lorenz; Tinbergen",Ethology
+1931,USA,Birth of radioastronomy,Jansky,Astronomy
+1931,Germany,First electron microscope,Ruska,Physics
+1932,United Kingdom,Discovery of the neutron,Chadwick,Physics
+1932,USA,Discovery of the positron first antimatter particle,Anderson,Physics
+1935,USA,Magnitude scale for earthquakes,Richter,Geophysics
+1935,Japan,Theory of the nuclear force,Yukawa,Physics
+1937,United Kingdom,Discovery of the citric acid cycle,Krebs,Biochemistry
+1938,"USA; Germany",Nuclear reactions in stars,"Bethe; von Weizsäcker",Astrophysics
+1938,Soviet Union,First observation of superfluidity,Kapitza,Physics
+1939,"Austria; Sweden",Discovery of nuclear fission,"Meitner & Frisch",Nuclear Physics
+1943,"Italy; Germany",Mutations in bacteria identified,"Luria & Delbrück",Microbiology
+1944,USA,Evidence in bacteria that DNA is the genetic material,"Avery, MacLeod, and McCarty",Genetics
+1944,USA,Start of Mexican wheat improvement program leading to the "green revolution",Borlaug,Agriculture
+1945,USA,Formulation of the one-gene one-enzyme hypothesis,"Beadle & Tatum",Genetics
+1946,USA,Radiocarbon dating,Libby,Chemistry
+1946,USA,Initial elucidation of the reactions involved in photosynthesis,Calvin,Biochemistry
+1947,USA,Invention of the transistor,"Shockley, Bardeen, and Brattain",Electronics
+1948,"Russia; USA",Big Bang theory for origin of the Universe,"Gamow, Alpher, and Herman",Cosmology
+1948,"USA; Japan",Quantum electrodynamics,"Feynman; Schwinger; Tomonaga",Physics
+1949,Australia,Immunological tolerance hypothesis proposed,Burnet,Immunology
+1951,USA,Presentation of the idea of gene transposition: "jumping genes",McClintock,Genetics
+1952,USA,First polio vaccine,Salk,Medicine
+1952,United Kingdom,Theory of nerve-cell excitation announced,"Hodgkin & Huxley",Neuroscience
+1953,USA,Production of amino acids in "early Earth" conditions,"Miller & Urey",Chemistry
+1953,United Kingdom,First determination of the amino-acid sequence of a protein,"Sanger et al.",Biochemistry
+1953,"USA; United Kingdom",Structure of DNA: the double helix,"Watson & Crick",Genetics
+1956,USA,Discovery of the neutrino,"Cowan & Reines",Physics
+1957,USA,Superconductivity explained,"Bardeen, Cooper, and Schrieffer",Physics
+1958,Japan,Quantum tunneling of electrons in semiconductors,Esaki,Physics
+1958,United Kingdom,First three-dimensional protein structure published,"Kendrew et al.",Biochemistry
+1960,USA,First laser,Maiman,Physics
+1960,United Kingdom,Discoveries of fossils of early Homo in East Africa,"Leakeys and others",Anthropology
+1961,United Kingdom,Nature of the genetic code,"Crick et al.",Molecular Biology
+1963,USA,Deterministic chaos: the butterfly effect,Lorenz,Chaos Theory
+1963,Netherlands,Discovery of quasars,Schmidt,Astronomy
+1963,United Kingdom,Explanation for magnetic stripes on the sea floor: seafloor spreading,"Vine & Matthews",Geophysics
+1964,USA,Existence of quarks proposed,"Gell-Mann; Zweig",Physics
+1964,United Kingdom,Genetic explanations proposed for animal social behavior,Hamilton,Evolutionary Biology
+1965,USA,Discovery of cosmic microwave background radiation,"Penzias & Wilson",Astronomy
+1967,"Japan; USA",First warning of an anthropogenic "greenhouse effect",Manabe & Wetherald,Climate Science
+1967,USA,Theory of plate tectonics,"McKenzie & Parker; Morgan",Geology
+1967,"USA; Pakistan",Electroweak theory first unification of fundamental forces,"Weinberg; Glashow; Salam",Physics
+1967,USA,Proposal that certain cell organelles are descended from free-living bacteria,Margulis,Evolutionary Biology
+1968,United Kingdom,Pulsars discovered,"Hewish et al.",Astronomy
+1968,Japan,Theory of random molecular evolution,Kimura,Evolutionary Biology
+1970,"USA; Japan",Reverse transcriptase discovered,"Baltimore; Temin & Mizutani",Molecular Biology
+1973,USA,Gamma-ray bursts from outer space,"Klebesadel, Strong, and Olsen",Astronomy
+1973,USA,Advent of genetic engineering techniques,"Cohen, Boyer, and Berg",Biotechnology
+1973,USA,Invention of magnetic resonance imaging,Lauterbur,Medical Imaging
+1974,"Mexico; USA",Identification of CFCs as threat to ozone layer,"Molina & Rowland",Environmental Science
+1974,"Australia; Switzerland",Principles of cell-mediated immunity unveiled,"Zinkernagel & Doherty",Immunology
+1974,"USA; France",Discovery of "Lucy" Australopithecus afarensis,"Johanson & Taieb",Paleoanthropology
+1974,USA,First Grand Unified Theory of particle physics,"Georgi & Glashow",Physics
+1975,"Germany; United Kingdom",Monoclonal antibodies created,"Köhler & Milstein",Immunology
+1976,Germany,Patch-clamp technique for studying single ion channels,"Neher & Sakmann",Physiology
+1977,United Kingdom,First complete DNA sequence of an organism,"Sanger et al.",Genetics
+1977,USA,Discovery of deep-sea hydrothermal vents,"Corliss et al.",Oceanography
+1978,USA,Observation of astronomical dark matter,Rubin,Astronomy
+1980,Germany,Unveiling of genetic controls on animal body-plan development,"Nüsslein-Volhard & Wieschaus",Genetics
+1980,USA,First human oncogene,Weinberg,Molecular Biology
+1980,USA,Impact hypothesis for extinctions at the Cretaceous-Tertiary boundary,"Alvarez et al.",Geology
+1981,"United Kingdom; USA",Superstring theory,"Green & Schwarz",Theoretical Physics
+1982,USA,Prion hypothesis proposed,Prusiner,Neurology
+1983,France,AIDS virus identified,"Barré-Sinoussi et al.",Virology
+1985,United Kingdom,Genetic fingerprinting invented,Jeffreys,Genetics
+1985,United Kingdom,Ozone hole discovered,"Farman et al.",Environmental Science
+1985,"United Kingdom; USA",Discovery of buckminsterfullerene,"Kroto et al.",Chemistry
+1986,Switzerland,First high-temperature superconductor,"Bednorz & Müller",Physics
+1987,USA,Formulation of the "Out of Africa" hypothesis of human evolution using molecular data,"Cann, Stoneking, and Wilson",Anthropology
+1995,USA,Bose-Einstein condensation of trapped atoms,"Cornell & Wieman",Physics
+1995,Switzerland,First extrasolar planet identified,"Mayor & Queloz",Astronomy
+1997,United Kingdom,Dolly the sheep created by cloning,"Wilmut et al.",Biotechnology
+2001,"USA; International",Publication of near-complete sequences of the human genome,"International Human Genome Sequencing Consortium; Venter et al.",Genomics
