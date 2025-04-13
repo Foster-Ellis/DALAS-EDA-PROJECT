@@ -1,0 +1,436 @@
+Year,Country,Name of Invention,Name of Inventor,Category,General_Category,Invention_Norm,Inventor_Norm
+1900,Germany,Quantum theory proposed,Planck,Physics,Physical Sciences,quantum theory,planck
+1901,Austrianamerican,Discovery of human blood groups,Landsteiner,Medicine,Life Sciences & Medicine,discovery human blood groups,landsteiner
+1905,Germany,Waveparticle duality of light,Einstein,Physics,Physical Sciences,waveparticle duality light,einstein
+1905,Germany,Special theory of relativity,Einstein,Physics,Physical Sciences,special theory relativity,einstein
+1906,United Kingdom,Existence of vitamins proposed,Hopkins,Biochemistry,Chemistry and Materials Science,existence vitamins,hopkins
+1906,United Kingdom,Evidence that Earth has a core,Oldham,Geophysics,Physical Sciences,evidence that earth has a core,oldham
+1908,Germany,Synthesis of ammonia from its elements,Haber,Chemistry,Chemistry and Materials Science,synthesis ammonia from its elements,haber
+1909,United Kingdom,Idea of genetic disease introduced,Garrod,Medicine,Life Sciences & Medicine,genetic disease introduced,garrod
+1909,Croatia,Boundary between Earths crust and mantle identified,Mohorovicic,Geology,Other,boundary between earths crust mantle identified,mohorovicic
+1909,United States,Discovery of Burgess Shale ancient invertebrate fossils,Walcott,Paleontology,Other,discovery burgess shale ancient invertebrate fossils,walcott
+1910,United States,First mapping of a gene to a chromosome,Morgan and others,Genetics,Life Sciences & Medicine,mapping a gene to a chromosome,morgan and others
+1911,New Zealand,Discovery of the atomic nucleus,Rutherford,Physics,Physical Sciences,discovery atomic nucleus,rutherford
+1911,Netherlands,Superconductivity discovered,Onnes,Physics,Physical Sciences,superconductivity discovered,onnes
+1912,Austria,Discovery of cosmic rays,Hess,Physics,Physical Sciences,discovery cosmic rays,hess
+1912,Germany,Idea of continental drift presented,Wegener,Geology,Other,continental drift presented,wegener
+1914,Germany; United Kingdom,First steps in elucidating chemical transmission of nerve impulses neurotransmitters,Dale; Barger; Loewi,Neuroscience,Other,steps elucidating chemical transmission nerve impulses neurotransmitters,dale; barger; loewi
+1914,Serbia,Astronomical theory of climate change,Milankovitch,Climatology,Other,astronomical theory climate change,milankovitch
+1915,Germany,General theory of relativity,Einstein,Physics,Physical Sciences,general theory relativity,einstein
+1918,United Kingdom; United States,Synthesis of genetics with the theory of evolution by natural selection neodarwinism,Fisher; Haldane; Wright,Evolutionary Biology,Life Sciences & Medicine,synthesis genetics with theory evolution by natural selection neodarwinism,fisher; haldane; wright
+1921,Canada,Isolation of insulin,Banting  Best,Medicine,Life Sciences & Medicine,isolation insulin,banting best
+1923,United States,Nature of galaxies discovered,Hubble,Astronomy,Physical Sciences,nature galaxies discovered,hubble
+1925,Australia,Description of Australopithecus africanus,Dart,Anthropology,Other,description australopithecus africanus,dart
+1925,Austria; Germany,Matrix and wave formulations of quantum mechanics,Heisenberg; Schrödinger,Physics,Physical Sciences,matrix wave formulations quantum mechanics,heisenberg; schrödinger
+1927,United States,Matter is proved to be wavelike,Davisson  Germer,Physics,Physical Sciences,matter is proved to be wavelike,davisson germer
+1928,United Kingdom,Discovery of penicillin,Fleming,Medicine,Life Sciences & Medicine,discovery penicillin,fleming
+1929,United States,Expansion of the Universe established,Hubble,Astronomy,Physical Sciences,expansion universe established,hubble
+1929,Japan,First suggestion that Earths magnetic field reverses,Matuyama,Geophysics,Physical Sciences,suggestion that earths magnetic field reverses,matuyama
+1930,United Kingdom,First absolute geological timescale,Holmes,Geology,Other,absolute geological timescale,holmes
+1930,United States,Theory of chemical bonds developed,Pauling,Chemistry,Chemistry and Materials Science,theory chemical bonds developed,pauling
+1930,Austria; Netherlands,Establishment of the scientific study of animal behavior,von Frisch; Lorenz; Tinbergen,Ethology,Other,establishment scientific study animal behavior,von frisch; lorenz; tinbergen
+1931,United States,Birth of radioastronomy,Jansky,Astronomy,Physical Sciences,birth radioastronomy,jansky
+1931,Germany,First electron microscope; electron microscope,Ernst Ruska; Ruska,Physics,Physical Sciences,electron microscope,
+1932; 1956,United Kingdom; United States,Discovery of the Neutron; Discovery of the neutrino; Discovery of the neutron,Chadwick; Cowan  Reines; James Chadwick,Physics,Physical Sciences,discovery neutron,
+1932,United States,Discovery of the positron first antimatter particle,Anderson,Physics,Physical Sciences,discovery positron antimatter particle,anderson
+1935,United States,Magnitude scale for earthquakes,Richter,Geophysics,Physical Sciences,magnitude scale earthquakes,richter
+1935,Japan,Theory of the nuclear force,Yukawa,Physics,Physical Sciences,theory nuclear force,yukawa
+1937,United Kingdom,Discovery of the citric acid cycle,Krebs,Biochemistry,Chemistry and Materials Science,discovery citric acid cycle,krebs
+1938,Germany; United States,Nuclear reactions in stars,Bethe; von Weizsäcker,Astrophysics,Physical Sciences,nuclear reactions stars,bethe; von weizsäcker
+1938,Russia,First observation of superfluidity,Kapitza,Physics,Physical Sciences,observation superfluidity,kapitza
+1939,Austria; Sweden,Discovery of nuclear fission,Meitner  Frisch,Nuclear Physics,Physical Sciences,discovery nuclear fission,meitner frisch
+1943,Germany; Italy,Mutations in bacteria identified,Luria  Delbrück,Microbiology,Other,mutations bacteria identified,luria delbrück
+1944,United States,Evidence in bacteria that DNA is the genetic material,Avery MacLeod and McCarty,Genetics,Life Sciences & Medicine,evidence bacteria that dna is genetic material,avery macleod and mccarty
+1944,United States,Start of Mexican wheat improvement program leading to the green revolution,Borlaug,Agriculture,Other,start mexican wheat improvement program leading to green revolution,borlaug
+1945,United States,Formulation of the onegene oneenzyme hypothesis,Beadle  Tatum,Genetics,Life Sciences & Medicine,formulation onegene oneenzyme hypothesis,beadle tatum
+1945; 1946,United States,Radiocarbon dating; radiocarbon dating,Libby; Willard Libby,Chemistry; Radiometric Dating,Chemistry and Materials Science; Other,radiocarbon dating,
+1946,United States,Initial elucidation of the reactions involved in photosynthesis,Calvin,Biochemistry,Chemistry and Materials Science,initial elucidation reactions involved photosynthesis,calvin
+1947,United States,Invention of the transistor,Shockley Bardeen and Brattain,Electronics,Other,invention transistor,shockley bardeen and brattain
+1948,Russia; United States,Big Bang theory for origin of the Universe,Gamow Alpher and Herman,Cosmology,Physical Sciences,big bang theory universe,gamow alpher and herman
+1948,Japan; United States,Quantum electrodynamics,Feynman; Schwinger; Tomonaga,Physics,Physical Sciences,quantum electrodynamics,feynman; schwinger; tomonaga
+1949,Australia,Immunological tolerance hypothesis proposed,Burnet,Immunology,Life Sciences & Medicine,immunological tolerance hypothesis,burnet
+1951,United States,Presentation of the idea of gene transposition jumping genes,McClintock,Genetics,Life Sciences & Medicine,presentation gene transposition jumping genes,mcclintock
+1952,United States,First polio vaccine,Salk,Medicine,Life Sciences & Medicine,polio vaccine,salk
+1952,United Kingdom,Theory of nervecell excitation announced,Hodgkin  Huxley,Neuroscience,Other,theory nervecell excitation announced,hodgkin huxley
+1953,United States,Production of amino acids in early Earth conditions,Miller  Urey,Chemistry,Chemistry and Materials Science,production amino acids early earth conditions,miller urey
+1953,United Kingdom,First determination of the aminoacid sequence of a protein,Sanger et al,Biochemistry,Chemistry and Materials Science,determination aminoacid sequence a protein,sanger et al
+1953,United Kingdom; United States,Structure of DNA the double helix,Watson  Crick,Genetics,Life Sciences & Medicine,structure dna double helix,watson crick
+1957,United States,Superconductivity explained,Bardeen Cooper and Schrieffer,Physics,Physical Sciences,superconductivity explained,bardeen cooper and schrieffer
+1958,Japan,Quantum tunneling of electrons in semiconductors,Esaki,Physics,Physical Sciences,quantum tunneling electrons semiconductors,esaki
+1958,United Kingdom,First threedimensional protein structure published,Kendrew et al,Biochemistry,Chemistry and Materials Science,threedimensional protein structure published,kendrew et al
+1960,United States,First laser,Maiman,Physics,Physical Sciences,laser,maiman
+1960,United Kingdom,Discoveries of fossils of early Homo in East Africa,Leakeys and others,Anthropology,Other,discoveries fossils early homo east africa,leakeys and others
+1961,United Kingdom,Nature of the genetic code,Crick et al,Molecular Biology,Life Sciences & Medicine,nature genetic code,crick et al
+1963,United States,Deterministic chaos the butterfly effect,Lorenz,Chaos Theory,Other,deterministic chaos butterfly effect,lorenz
+1963,Netherlands,Discovery of quasars,Schmidt,Astronomy,Physical Sciences,discovery quasars,schmidt
+1963,United Kingdom,Explanation for magnetic stripes on the sea floor seafloor spreading,Vine  Matthews,Geophysics,Physical Sciences,explanation magnetic stripes sea floor seafloor spreading,vine matthews
+1964,United States,Existence of quarks proposed,GellMann; Zweig,Physics,Physical Sciences,existence quarks,gellmann; zweig
+1964,United Kingdom,Genetic explanations proposed for animal social behavior,Hamilton,Evolutionary Biology,Life Sciences & Medicine,genetic explanations animal social behavior,hamilton
+1965,United States,Discovery of cosmic microwave background radiation,Penzias  Wilson,Astronomy,Physical Sciences,discovery cosmic microwave background radiation,penzias wilson
+1967,Japan; United States,First warning of an anthropogenic greenhouse effect,Manabe  Wetherald,Climate Science,Other,warning an anthropogenic greenhouse effect,manabe wetherald
+1967,United States,Theory of plate tectonics,McKenzie  Parker; Morgan,Geology,Other,theory plate tectonics,mckenzie parker; morgan
+1967,Pakistan; United States,Electroweak theory first unification of fundamental forces,Weinberg; Glashow; Salam,Physics,Physical Sciences,electroweak theory unification fundamental forces,weinberg; glashow; salam
+1967,United States,Proposal that certain cell organelles are descended from freeliving bacteria,Margulis,Evolutionary Biology,Life Sciences & Medicine,proposal that certain cell organelles are descended from freeliving bacteria,margulis
+1968,United Kingdom,Pulsars discovered,Hewish et al,Astronomy,Physical Sciences,pulsars discovered,hewish et al
+1968,Japan,Theory of random molecular evolution,Kimura,Evolutionary Biology,Life Sciences & Medicine,theory random molecular evolution,kimura
+1970,Japan; United States,Reverse transcriptase discovered,Baltimore; Temin  Mizutani,Molecular Biology,Life Sciences & Medicine,reverse transcriptase discovered,baltimore; temin mizutani
+1973,United States,Gammaray bursts from outer space,Klebesadel Strong and Olsen,Astronomy,Physical Sciences,gammaray bursts from outer space,klebesadel strong and olsen
+1973,United States,Advent of genetic engineering techniques,Cohen Boyer and Berg,Biotechnology,Life Sciences & Medicine,advent genetic engineering techniques,cohen boyer and berg
+1973,United States,Invention of magnetic resonance imaging,Lauterbur,Medical Imaging,Life Sciences & Medicine,invention magnetic resonance imaging,lauterbur
+1974,Mexico; United States,Identification of CFCs as threat to ozone layer,Molina  Rowland,Environmental Science,Other,identification cfcs as threat to ozone layer,molina rowland
+1974,Australia; Switzerland,Principles of cellmediated immunity unveiled,Zinkernagel  Doherty,Immunology,Life Sciences & Medicine,principles cellmediated immunity unveiled,zinkernagel doherty
+1974,France; United States,Discovery of Lucy Australopithecus afarensis,Johanson  Taieb,Paleoanthropology,Other,discovery lucy australopithecus afarensis,johanson taieb
+1974,United States,First Grand Unified Theory of particle physics,Georgi  Glashow,Physics,Physical Sciences,grand unified theory particle physics,georgi glashow
+1975,Germany; United Kingdom,Monoclonal antibodies created,Köhler  Milstein,Immunology,Life Sciences & Medicine,monoclonal antibodies created,köhler milstein
+1976,Germany,Patchclamp technique for studying single ion channels,Neher  Sakmann,Physiology,Other,patchclamp technique studying single ion channels,neher sakmann
+1977,United Kingdom,First complete DNA sequence of an organism,Sanger et al,Genetics,Life Sciences & Medicine,complete dna sequence an organism,sanger et al
+1977,United States,Discovery of deepsea hydrothermal vents,Corliss et al,Oceanography,Other,discovery deepsea hydrothermal vents,corliss et al
+1978,United States,Observation of astronomical dark matter,Rubin,Astronomy,Physical Sciences,observation astronomical dark matter,rubin
+1980,Germany,Unveiling of genetic controls on animal bodyplan development,NüssleinVolhard  Wieschaus,Genetics,Life Sciences & Medicine,unveiling genetic controls animal bodyplan development,nüssleinvolhard wieschaus
+1980,United States,First human oncogene,Weinberg,Molecular Biology,Life Sciences & Medicine,human oncogene,weinberg
+1980,United States,Impact hypothesis for extinctions at the CretaceousTertiary boundary,Alvarez et al,Geology,Other,impact hypothesis extinctions at cretaceoustertiary boundary,alvarez et al
+1981,United Kingdom; United States,Superstring theory,Green  Schwarz,Theoretical Physics,Physical Sciences,superstring theory,green schwarz
+1982,United States,Prion hypothesis proposed,Prusiner,Neurology,Other,prion hypothesis,prusiner
+1983,France,AIDS virus identified,BarréSinoussi et al,Virology,Life Sciences & Medicine,aids virus identified,barrésinoussi et al
+1985,United Kingdom,Genetic fingerprinting invented,Jeffreys,Genetics,Life Sciences & Medicine,genetic fingerprinting invented,jeffreys
+1985,United Kingdom,Ozone hole discovered,Farman et al,Environmental Science,Other,ozone hole discovered,farman et al
+1985,United Kingdom; United States,Discovery of buckminsterfullerene,Kroto et al,Chemistry,Chemistry and Materials Science,discovery buckminsterfullerene,kroto et al
+1986,Switzerland,First hightemperature superconductor,Bednorz  Müller,Physics,Physical Sciences,hightemperature superconductor,bednorz müller
+1987,United States,Formulation of the Out of Africa hypothesis of human evolution using molecular data,Cann Stoneking and Wilson,Anthropology,Other,formulation out africa hypothesis human evolution using molecular data,cann stoneking and wilson
+1995,United States,BoseEinstein condensation of trapped atoms,Cornell  Wieman,Physics,Physical Sciences,boseeinstein condensation trapped atoms,cornell wieman
+1995,Switzerland,First extrasolar planet identified,Mayor  Queloz,Astronomy,Physical Sciences,extrasolar planet identified,mayor queloz
+1997,United Kingdom,Dolly the sheep created by cloning,Wilmut et al,Biotechnology,Life Sciences & Medicine,dolly sheep created by cloning,wilmut et al
+2001,International; United States,Publication of nearcomplete sequences of the human genome,International Human Genome Sequencing Consortium; Venter et al,Genomics,Other,publication nearcomplete sequences human genome,international human genome sequencing consortium; venter et al
+1712,United Kingdom,The Newcomen Engine,Thomas Newcomen,Mechanical Engineering,Engineering and Technology,newcomen engine,thomas newcomen
+1730,United Kingdom,The Marine Chronometer,John Harrison,Marine Technology,Other,marine chronometer,john harrison
+1735,Sweden,Systema Naturae,Carl Linnaeus,Biology,Life Sciences & Medicine,systema naturae,carl linnaeus
+1745,Netherlands,Leyden Jar; The Leyden Jar,Ewald Georg von Kleist; Pieter van Musschenbroek,Electricity,Other,leyden jar,
+1763,United Kingdom,Bayes’ Theorem,Thomas Bayes,Mathematics,Other,bayes’ theorem,thomas bayes
+1781,United Kingdom,Discovery of Uranus,William Herschel,Astronomy,Physical Sciences,discovery uranus,william herschel
+1796,United Kingdom,The First Vaccination,Edward Jenner,Medicine,Life Sciences & Medicine,vaccination,edward jenner
+1799,Italy,The Battery,Alessandro Volta,Electricity,Other,battery,alessandro volta
+1804,United Kingdom,Dalton’s Atomic Theory,John Dalton,Chemistry,Chemistry and Materials Science,dalton’s atomic theory,john dalton
+1820,Denmark,Discovery of Electromagnetism,Hans Christian Ørsted,Physics,Physical Sciences,discovery electromagnetism,hans christian ørsted
+1816; 1830,United Kingdom; United States,Electric Telegraph; The Electric Telegraph,Cooke  Wheatstone; Francis Ronalds; Samuel Morse,Communications,Other,electric telegraph,
+1824,France,Carnot Cycle,Sadi Carnot,Thermodynamics,Other,carnot cycle,sadi carnot
+1830,United Kingdom,Principles of Geology,Charles Lyell,Geology,Other,principles geology,charles lyell
+1834,Germany; United States,The Electric Motor,Moritz Jacobi; Thomas Davenport,Electrical Engineering,Engineering and Technology,electric motor,moritz jacobi; thomas davenport
+1848,United Kingdom,Absolute Zero,William Thomson Lord Kelvin,Physics,Physical Sciences,absolute zero,william thomson lord kelvin
+1850,France; Germany; United Kingdom,Laws of Thermodynamics,Sadi Carnot; Rudolf Clausius; William Thomson,Thermodynamics,Other,laws thermodynamics,sadi carnot; rudolf clausius; william thomson
+1859,United Kingdom,On the Origin of Species,Charles Darwin,Biology,Life Sciences & Medicine,species,charles darwin
+1860,France,Germ Theory of Disease,Louis Pasteur,Medicine,Life Sciences & Medicine,germ theory disease,louis pasteur
+1860,United Kingdom,The Electromagnetic Spectrum,James Clerk Maxwell,Physics,Physical Sciences,electromagnetic spectrum,james clerk maxwell
+1866,Czech,Laws of Inheritance,Gregor Mendel,Genetics,Life Sciences & Medicine,laws inheritance,gregor mendel
+1869,Russia,Mendeleev’s Periodic Table of Elements,Dmitri Mendeleev,Chemistry,Chemistry and Materials Science,mendeleev’s periodic table elements,dmitri mendeleev
+1876,United Kingdom; United States,The Telephone; telephone,Alexander Graham Bell,Communication Technology; Communications,Other,telephone,
+1897,United Kingdom,Electron,JJ Thomson,Physics,Physical Sciences,electron,jj thomson
+1900,Austria; Denmark; Germany,Quantum Mechanics,Max Planck; Niels Bohr; Albert Einstein; Werner Heisenberg; Erwin Schrödinger,Physics,Physical Sciences,quantum mechanics,max planck; niels bohr; albert einstein; werner heisenberg; erwin schrödinger
+1903,United States,First Successful Airplane,Orville Wright; Wilbur Wright,Aviation,Other,successful airplane,orville wright; wilbur wright
+1905,Germany,Special Relativity,Albert Einstein,Physics,Physical Sciences,special relativity,albert einstein
+1911,New Zealand,Atomic Nucleus,Ernst Rutherford,Physics,Physical Sciences,atomic nucleus,ernst rutherford
+1913,Denmark,Bohr Model of the Atom,Niels Bohr,Physics,Physical Sciences,bohr model atom,niels bohr
+1915,Germany,General Relativity,Albert Einstein,Physics,Physical Sciences,general relativity,albert einstein
+1927,Belgium,The Big Bang,Georges Lemaître,Cosmology,Physical Sciences,big bang,georges lemaître
+1938,Austria; Germany,Nuclear Fission; nuclear fission,Fritz Strassmann; Lise Meitner; Otto Hahn; Otto Robert Frisch,Nuclear Physics; Physics,Physical Sciences,nuclear fission,
+1947,United States,The Transistor; transistor,John Bardeen; Walter Brattain; William Shockley,Electronic Engineering; Electronics,Engineering and Technology; Other,transistor,
+1953,United Kingdom; United States,The Structure of DNA,Francis Crick; James Watson,Biology,Life Sciences & Medicine,structure dna,francis crick; james watson
+1960,Canada; United States,Plate Tectonics,Harry Hess; Robert S Dietz; J Tuzo Wilson,Geology,Other,plate tectonics,harry hess; robert s dietz; j tuzo wilson
+1977,United States,Voyager Program,NASA,Aerospace,Engineering and Technology,voyager program,nasa
+1709,Italy,The First Piano,Bartolomeo Cristofori,Music,Other,piano,bartolomeo cristofori
+1709,Poland,Alcohol Thermometer,Daniel Gabriel Fahrenheit,Physics,Physical Sciences,alcohol thermometer,daniel gabriel fahrenheit
+1712,United Kingdom,The First Commercial Steam Engine,Thomas Newcomen,Mechanical Engineering,Engineering and Technology,commercial steam engine,thomas newcomen
+1730,United Kingdom; United States,Octant,Thomas Godfrey; John Hadley,Marine Navigation,Other,octant,thomas godfrey; john hadley
+1733,United Kingdom,Flying Shuttle,John Kay,Textile Machinery,Other,flying shuttle,john kay
+1738,United Kingdom,Mechanized Cotton Spinning Machine,Lewis Paul; John Wyatt,Textile Machinery,Other,mechanized cotton spinning machine,lewis paul; john wyatt
+1742,United States,Franklin Stove,Benjamin Franklin,Domestic Technology,Other,franklin stove,benjamin franklin
+1746,United Kingdom,Lead Chamber Process,John Roebuck,Chemical Engineering,Chemistry and Materials Science,lead chamber process,john roebuck
+1752,United States,Lightning Rod,Benjamin Franklin,Electricity,Other,lightning rod,benjamin franklin
+1755,United Kingdom,Artificial Refrigeration Machine,William Cullen,Refrigeration Technology,Other,artificial refrigeration machine,william cullen
+1760,France,Roller Skates,John Joseph Merlin,Recreational Technology,Other,roller skates,john joseph merlin
+1764,United Kingdom,Spinning Jenny,James Hargreaves,Textile Machinery,Other,spinning jenny,james hargreaves
+1765,United Kingdom,Improved Steam Engine,James Watt,Mechanical Engineering,Engineering and Technology,improved steam engine,james watt
+1767,United Kingdom,Carbonated Water Production Method,Joseph Priestley,Chemistry,Chemistry and Materials Science,carbonated water production method,joseph priestley
+1769,France,SteamPowered Vehicle,NicolasJoseph Cugnot,Transportation,Other,steampowered vehicle,nicolasjoseph cugnot
+1770,United Kingdom,Weighing Scale,Richard Salter,Measurement Instrument,Other,weighing scale,richard salter
+1774,United Kingdom,Boring Machine,John Wilkinson,Machine Tools,Other,boring machine,john wilkinson
+1775,United Kingdom,ScrewCutting Lathe,Jesse Ramsden,Machine Tools,Other,screwcutting lathe,jesse ramsden
+1776,United Kingdom,Mechanical Air Compressor,John Wilkinson,Industrial Machinery,Chemistry and Materials Science,mechanical air compressor,john wilkinson
+1778,United Kingdom,Lever Tumbler Lock,Robert Barron,Lock Technology,Other,lever tumbler lock,robert barron
+1780,India,MetalCylinder Rockets,Hyder Ali,Rocketry,Other,metalcylinder rockets,hyder ali
+1783; 1807,France; United States,Steamboat,Claude de Jouffroy; Robert Fulton,Transportation,Other,steamboat,
+1783,France,Manned Hot Air Balloon,JosephMichel Montgolfier; JacquesÉtienne Montgolfier,Aerospace,Engineering and Technology,manned hot air balloon,josephmichel montgolfier; jacquesétienne montgolfier
+1783,France,Modern Parachute,LouisSébastien Lenormand,Aerospace,Engineering and Technology,modern parachute,louissébastien lenormand
+1785,Netherlands,Electrolysis Technique,Martinus van Marum,Electrochemistry,Chemistry and Materials Science,electrolysis technique,martinus van marum
+1786,United Kingdom,Threshing Machine,Andrew Meikle,Agricultural Machinery,Other,threshing machine,andrew meikle
+1789,United Kingdom,Power Loom,Edmund Cartwright,Textile Machinery,Other,power loom,edmund cartwright
+1790,United Kingdom,Sewing Machine,Thomas Saint,Textile Machinery,Other,sewing machine,thomas saint
+1792,France,Semaphore Telegraph,Claude Chappe,Communications,Other,semaphore telegraph,claude chappe
+1793,United States,Cotton Gin,Eli Whitney,Textile Machinery,Other,cotton gin,eli whitney
+1795,United Kingdom,Hydraulic Press,Joseph Bramah,Mechanical Engineering,Engineering and Technology,hydraulic press,joseph bramah
+1796,Germany,Lithography Printing Technique,Alois Senefelder,Printing Technology,Other,lithography printing technique,alois senefelder
+1797,United Kingdom,Plywood,Samuel Bentham,Materials Technology,Chemistry and Materials Science,plywood,samuel bentham
+1799,United Kingdom,Motorized Air Compressor,George Medhurst,Mechanical Engineering,Engineering and Technology,motorized air compressor,george medhurst
+1799,France,Paper Machine,LouisNicolas Robert,Industrial Machinery,Chemistry and Materials Science,paper machine,louisnicolas robert
+1800,Italy,Voltaic Pile,Alessandro Volta,Electricity,Other,voltaic pile,alessandro volta
+1802,United Kingdom,Arc Lamp,Humphry Davy,Electricity,Other,arc lamp,humphry davy
+1804,Germany,Morphine Discovery,Friedrich Sertürner,Pharmaceuticals,Other,morphine discovery,friedrich sertürner
+1804,France,Jacquard Loom,Joseph Marie Jacquard,Textile Machinery,Other,jacquard loom,joseph marie jacquard
+1804,United Kingdom,Steam Locomotive,Richard Trevithick,Transportation,Other,steam locomotive,richard trevithick
+1804,Japan,Modern General Anesthetic Tsūsensan,Hanaoka Seishū,Medicine,Life Sciences & Medicine,modern general anesthetic tsūsensan,hanaoka seishū
+1807,France,Early Internal Combustion Engine,Nicéphore Niépce,Mechanical Engineering,Engineering and Technology,early internal combustion engine,nicéphore niépce
+1807,Switzerland,HydrogenPowered Automobile,François Isaac de Rivaz,Transportation,Other,hydrogenpowered automobile,françois isaac de rivaz
+1810,France,Canning Process,Nicolas Appert,Food Technology,Other,canning process,nicolas appert
+1810,France,First Wristwatch,AbrahamLouis Breguet,Horology,Other,wristwatch,abrahamlouis breguet
+1811,Germany,Powered Printing Press,Friedrich Koenig,Printing Technology,Other,powered printing press,friedrich koenig
+1812,Ireland,Safety Lamp,William Reid Clanny,Safety Technology,Other,safety lamp,william reid clanny
+1814,United Kingdom,Modern Planing Machine,James Fox,Machine Tools,Other,modern planing machine,james fox
+1816,France,Stethoscope,René Laennec,Medicine,Life Sciences & Medicine,stethoscope,rené laennec
+1816,United Kingdom,Stirling Engine,Robert Stirling,Mechanical Engineering,Engineering and Technology,stirling engine,robert stirling
+1817,Germany,Dandy Horse,Baron Karl von Drais,Transportation,Other,dandy horse,baron karl von drais
+1818,France,Tunnelling Shield,Marc Isambard Brunel,Civil Engineering,Engineering and Technology,tunnelling shield,marc isambard brunel
+1822,United States,PatternTracing Lathe,Thomas Blanchard,Machine Tools,Other,patterntracing lathe,thomas blanchard
+1822,France,Heliography,Nicéphore Niépce,Photography,Other,heliography,nicéphore niépce
+1822,United Kingdom,Programmable Mechanical Computer,Charles Babbage,Computing,Other,programmable mechanical computer,charles babbage
+1823,Germany,Lighter,Johann Wolfgang Döbereiner,Domestic Technology,Other,lighter,johann wolfgang döbereiner
+1824,Germany,BoltAction Rifle,Johann Nikolaus von Dreyse,Firearms Technology,Other,boltaction rifle,johann nikolaus von dreyse
+1824,United Kingdom,Electromagnet,William Sturgeon,Electricity,Other,electromagnet,william sturgeon
+1826,United Kingdom,Friction Match,John Walker,Domestic Technology,Other,friction match,john walker
+1826,United Kingdom,Gas Stove,James Sharp,Domestic Technology,Other,gas stove,james sharp
+1828,United Kingdom,Hot Blast Process,James Beaumont Neilson,Industrial Process,Chemistry and Materials Science,hot blast process,james beaumont neilson
+1828,United Kingdom,Reaping Machine,Patrick Bell,Agricultural Machinery,Other,reaping machine,patrick bell
+1828,Hungary,Rotary Electromechanical Machine,Ányos Jedlik,Electrical Engineering,Engineering and Technology,rotary electromechanical machine,ányos jedlik
+1829,France,Braille Reading System,Louis Braille,Assistive Technology,Other,braille reading system,louis braille
+1829,United Kingdom,Compound Air Compressor,William Mann,Mechanical Engineering,Engineering and Technology,compound air compressor,william mann
+1829,United Kingdom,Corrugated Galvanised Iron,Henry Robinson Palmer,Materials Technology,Chemistry and Materials Science,corrugated galvanised iron,henry robinson palmer
+1830,United Kingdom,Lawn Mower,Edwin Budding,Agricultural Machinery,Other,lawn mower,edwin budding
+1831,United Kingdom,Electric Generator,Michael Faraday,Electricity,Other,electric generator,michael faraday
+1834,Germany,Practical Electric Motor,Moritz von Jacobi,Electrical Engineering,Engineering and Technology,practical electric motor,moritz von jacobi
+1835,United States,Electromechanical Relay,Joseph Henry,Electrical Engineering,Engineering and Technology,electromechanical relay,joseph henry
+1837,United States,Morse Code,Samuel Morse,Communications,Other,morse code,samuel morse
+1838,Germany,Electrotyping,Moritz von Jacobi,Printing Technology,Other,electrotyping,moritz von jacobi
+1839,United States,Steam Shovel,William Otis,Construction Engineering,Engineering and Technology,steam shovel,william otis
+1839,United Kingdom,Steam Hammer,James Nasmyth,Industrial Machinery,Chemistry and Materials Science,steam hammer,james nasmyth
+1839,France,Photovoltaic Cell,Edmond Becquerel,Renewable Energy,Other,photovoltaic cell,edmond becquerel
+1839,United States,Vulcanized Rubber,Charles Goodyear,Materials Technology,Chemistry and Materials Science,vulcanized rubber,charles goodyear
+1839,France,Daguerreotype Photography,Louis Daguerre,Photography,Other,daguerreotype photography,louis daguerre
+1840,United Kingdom,Blueprint,John Herschel,Technical Drawing,Other,blueprint,john herschel
+1841,United Kingdom,Printing Telegraph,Alexander Bain,Communications,Other,printing telegraph,alexander bain
+1842,United Kingdom,Fuel Cell,William Robert Grove,Energy Technology,Other,fuel cell,william robert grove
+1842,United Kingdom,Superphosphate,John Bennet Lawes,Agricultural Chemistry,Chemistry and Materials Science,superphosphate,john bennet lawes
+1844,Canada; Germany,Wood Pulp Paper Production,Friedrich Gottlob Keller; Charles Fenerty,Paper Technology,Other,wood pulp paper production,friedrich gottlob keller; charles fenerty
+1844,Ireland,Hypodermic Needle,Francis Rynd,Medicine,Life Sciences & Medicine,hypodermic needle,francis rynd
+1845,United States,Modern Portland Cement,Isaac Charles Johnson,Construction Materials,Chemistry and Materials Science,modern portland cement,isaac charles johnson
+1846,France,Tunnel Boring Machine,HenriJoseph Maus,Mining Technology,Other,tunnel boring machine,henrijoseph maus
+1847,Italy,Nitroglycerin,Ascanio Sobrero,Explosives,Other,nitroglycerin,ascanio sobrero
+1848,United States,Pneumatic Drill,Jonathan J Couch,Mining Technology,Other,pneumatic drill,jonathan j couch
+1848,United States,Pin Tumbler Lock,Linus Yale Sr,Lock Technology,Other,pin tumbler lock,linus yale sr
+1849,United States,Repeating Rifle,Walter Hunt,Firearms Technology,Other,repeating rifle,walter hunt
+1849,United States,Francis Turbine,James B Francis,Hydraulic Engineering,Engineering and Technology,francis turbine,james b francis
+1849,United States,Safety Pin,Walter Hunt,Domestic Technology,Other,safety pin,walter hunt
+1850,United Kingdom,Hydraulic Accumulator,William Armstrong,Hydraulic Engineering,Engineering and Technology,hydraulic accumulator,william armstrong
+1851,United Kingdom,Public Flush Toilet,George Jennings,Sanitation Technology,Other,public flush toilet,george jennings
+1852,Germany,Chemical Vapor Deposition Technique,Robert Bunsen,Materials Science,Chemistry and Materials Science,chemical vapor deposition technique,robert bunsen
+1852,United States,Safety Brake Elevator,Elisha Otis,Vertical Transportation,Other,safety brake elevator,elisha otis
+1852,France,Powered Dirigible Flight,Henri Giffard,Aerospace,Engineering and Technology,powered dirigible flight,henri giffard
+1853,France,reinforced concrete,François Coignet,Civil Engineering,Engineering and Technology,reinforced concrete,françois coignet
+1855,United Kingdom,first practical method for color photography,James Clerk Maxwell,Physics,Physical Sciences,practical method color photography,james clerk maxwell
+1855,United Kingdom,Bessemer process,Henry Bessemer,Metallurgical Engineering,Chemistry and Materials Science,bessemer process,henry bessemer
+1856,United Kingdom,parkesine celluloid,Alexander Parkes,Materials Science,Chemistry and Materials Science,parkesine celluloid,alexander parkes
+1856,Australia,ice making machine and refrigerator,James Harrison,Refrigeration Technology,Other,ice making machine refrigerator,james harrison
+1856,United Kingdom,mauveine,William Henry Perkin,Chemistry,Chemistry and Materials Science,mauveine,william henry perkin
+1857,Germany,Geissler tube,Heinrich Geissler,Physics,Physical Sciences,geissler tube,heinrich geissler
+1857,France,phonautograph,ÉdouardLéon Scott de Martinville,Acoustics,Other,phonautograph,édouardléon scott de martinville
+1859,France,lead acid battery,Gaston Planté,Electrochemistry,Chemistry and Materials Science,lead acid battery,gaston planté
+1860,United Kingdom,carbon fibers,Joseph Swan,Materials Science,Chemistry and Materials Science,carbon fibers,joseph swan
+1864,France,pasteurization process,Louis Pasteur,Biotechnology,Life Sciences & Medicine,pasteurization process,louis pasteur
+1865,France; Germany,SiemensMartin process,Carl Wilhelm Siemens; PierreÉmile Martin,Metallurgical Engineering,Chemistry and Materials Science,siemensmartin process,carl wilhelm siemens; pierreémile martin
+1867,Sweden,dynamite,Alfred Nobel,Chemical Engineering,Chemistry and Materials Science,dynamite,alfred nobel
+1867,United States,barbed wire,Lucien B Smith,Agricultural Technology,Other,barbed wire,lucien b smith
+1872,Germany,polyvinyl chloride PVC,Eugen Baumann,Chemistry,Chemistry and Materials Science,polyvinyl chloride pvc,eugen baumann
+1872,United Kingdom,stainless steel,JET Woods; J Clark; Harry Brearley,Metallurgical Engineering,Chemistry and Materials Science,stainless steel,jet woods; j clark; harry brearley
+1873,United Kingdom,rotary kiln,Frederick Ransome,Industrial Engineering,Chemistry and Materials Science,rotary kiln,frederick ransome
+1873,United Kingdom,Crookes radiometer,William Crookes,Physics,Physical Sciences,crookes radiometer,william crookes
+1873,Belgium,Gramme machine,Zénobe Gramme,Electrical Engineering,Engineering and Technology,gramme machine,zénobe gramme
+1874,France,metal detector,Gustave Trouvé,Electronic Engineering,Engineering and Technology,metal detector,gustave trouvé
+1875,Russia,electric tram,Fyodor Pirotsky,Transportation Engineering,Engineering and Technology,electric tram,fyodor pirotsky
+1876,Germany,fourstroke cycle,Nicolaus August Otto,Mechanical Engineering,Engineering and Technology,fourstroke cycle,nicolaus august otto
+1877,United States,phonograph,Thomas Edison,Audio Technology,Other,phonograph,thomas edison
+1878,United Kingdom,rebreather,Henry Fleuss,Diving Technology,Other,rebreather,henry fleuss
+1878,United States,Pelton wheel,Lester Allan Pelton,Mechanical Engineering,Engineering and Technology,pelton wheel,lester allan pelton
+1879,United Kingdom; United States,incandescent light bulb,Joseph Swan; Thomas Edison,Electrical Engineering,Engineering and Technology,incandescent light bulb,joseph swan; thomas edison
+1881,Bulgaria,carbon arc welding,Nikolay Benardos,Welding Technology,Other,carbon arc welding,nikolay benardos
+1884,United States,Maxim gun,Hiram Maxim,Weapon Technology,Other,maxim gun,hiram maxim
+1884,France,Poudre B,Paul Vieille,Chemistry,Chemistry and Materials Science,poudre b,paul vieille
+1884,Ireland,modern steam turbine,Sir Charles Parsons,Mechanical Engineering,Engineering and Technology,modern steam turbine,sir charles parsons
+1884,Hungary,closed core transformer and AC parallel power distribution,Károly Zipernowsky; Ottó Bláthy; Miksa Déri,Electrical Engineering,Engineering and Technology,closed core transformer ac parallel power distribution,károly zipernowsky; ottó bláthy; miksa déri
+1885,United Kingdom,modern safety bicycle,John Kemp Starley,Transportation Engineering,Engineering and Technology,modern safety bicycle,john kemp starley
+1886,Germany,zinc–carbon battery,Carl Gassner,Electrochemistry,Chemistry and Materials Science,zinc–carbon battery,carl gassner
+1886,France; United States,Hall–Héroult process,Charles Martin Hall; Paul Héroult,Metallurgical Engineering,Chemistry and Materials Science,hall–héroult process,charles martin hall; paul héroult
+1886,Germany,automobile,Karl Benz,Mechanical Engineering,Engineering and Technology,automobile,karl benz
+1887,Germany,Bayer process,Carl Josef Bayer,Chemical Engineering,Chemistry and Materials Science,bayer process,carl josef bayer
+1887,United Kingdom,wind turbine,James Blyth,Electrical Engineering,Engineering and Technology,wind turbine,james blyth
+1887,Australia,gold cyanidation process,John Stewart MacArthur; Robert Forrest; William Forrest,Mining Engineering,Engineering and Technology,gold cyanidation process,john stewart macarthur; robert forrest; william forrest
+1888,United States,ballpoint pen,John J Loud,Mechanical Engineering,Engineering and Technology,ballpoint pen,john j loud
+1888,United States,Kinetoscope,Thomas Edison; William Kennedy Dickson,Film Technology,Other,kinetoscope,thomas edison; william kennedy dickson
+1888,Germany,electromagnetic wave demonstration,Heinrich Hertz,Physics,Physical Sciences,electromagnetic wave demonstration,heinrich hertz
+1888,United Kingdom,pneumatic tire,John Boyd Dunlop,Mechanical Engineering,Engineering and Technology,pneumatic tire,john boyd dunlop
+1890,France,chlorofluorocarbons as refrigerant,Frédéric Swarts,Chemistry,Chemistry and Materials Science,chlorofluorocarbons as refrigerant,frédéric swarts
+1890,United States,precut cardboard box,Robert Gair,Industrial Design,Chemistry and Materials Science,precut cardboard box,robert gair
+1891,United States,zipper,Whitcomb Judson,Garment Technology,Other,zipper,whitcomb judson
+1892,France,cinematograph,Léon Bouly,Film Technology,Other,cinematograph,léon bouly
+1892,Canada,electric oven,Thomas Ahearn,Home Appliances,Other,electric oven,thomas ahearn
+1893,Germany,diesel engine,Rudolf Diesel,Mechanical Engineering,Engineering and Technology,diesel engine,rudolf diesel
+1893,United States,rubber glove,William Stewart Halsted,Medicine,Life Sciences & Medicine,rubber glove,william stewart halsted
+1895,Italy,wireless communication system,Guglielmo Marconi,Communication Technology,Other,wireless communication system,guglielmo marconi
+1895,Germany,radiograph Xray,Wilhelm Conrad Röntgen,Physics,Physical Sciences,radiograph xray,wilhelm conrad röntgen
+1897,France; Poland,surgical mask,Jan MikuliczRadecki; Paul Berger,Medicine,Life Sciences & Medicine,surgical mask,jan mikuliczradecki; paul berger
+1898,Germany,polyethylene,Hans von Pechmann,Chemistry,Chemistry and Materials Science,polyethylene,hans von pechmann
+1899,Sweden,NiCd NiFe AgCd batteries,Waldemar Jungner,Electrochemistry,Chemistry and Materials Science,nicd nife agcd batteries,waldemar jungner
+1900,Germany,Zeppelin,Theodor Kober,Aerospace Engineering,Engineering and Technology,zeppelin,theodor kober
+1901,United Kingdom; United States,vacuum cleaner,Hubert Cecil Booth; David T Kenney,Home Appliances,Other,vacuum cleaner,hubert cecil booth; david t kenney
+1903,Norway,gas turbine,Ægidius Elling,Mechanical Engineering,Engineering and Technology,gas turbine,ægidius elling
+1903,France,laminated glass,Édouard Bénédictus,Materials Science,Chemistry and Materials Science,laminated glass,édouard bénédictus
+1903,United States,powered airplane,Orville Wright; Wilbur Wright,Aerospace Engineering,Engineering and Technology,powered airplane,orville wright; wilbur wright
+1904,United Kingdom,Fleming valve,John Ambrose Fleming,Electronic Engineering,Engineering and Technology,fleming valve,john ambrose fleming
+1907,France,rotarywing aircraft free flight,Paul Cornu,Aerospace Engineering,Engineering and Technology,rotarywing aircraft free flight,paul cornu
+1907,Belgium; United States,bakelite,Leo Baekeland,Chemistry,Chemistry and Materials Science,bakelite,leo baekeland
+1907,France,tuyères thermopropulsives statoreacteur  ramjet,Maurice Roy; R Lorin,Aerospace Engineering,Engineering and Technology,tuyères thermopropulsives statoreacteur ramjet,maurice roy; r lorin
+1908,Switzerland,cellophane,Jacques E Brandenberger,Materials Science,Chemistry and Materials Science,cellophane,jacques e brandenberger
+1909,Germany,Haber process,Fritz Haber,Chemical Engineering,Chemistry and Materials Science,haber process,fritz haber
+1909,France,television broadcast,Georges Rignoux; A Fournier,Electronic Engineering,Engineering and Technology,television broadcast,georges rignoux; a fournier
+1911,United Kingdom,cloud chamber,Charles Thomson Rees Wilson,Physics,Physical Sciences,cloud chamber,charles thomson rees wilson
+1912,United States,model electric racing cars slot cars,Lionel,Toys,Other,model electric racing cars slot cars,lionel
+1912,United States,articulated trams,Boston Elevated Railway,Transportation Engineering,Engineering and Technology,articulated trams,boston elevated railway
+1913,Germany,Bergius process,Friedrich Bergius,Chemical Engineering,Chemistry and Materials Science,bergius process,friedrich bergius
+1913,Austria,Kaplan turbine,Viktor Kaplan,Hydraulic Engineering,Engineering and Technology,kaplan turbine,viktor kaplan
+1915,United Kingdom,Martensitic stainless steel process,Harry Brearley,Metallurgical Engineering,Chemistry and Materials Science,martensitic stainless steel process,harry brearley
+1915,France; United Kingdom,military tank,Walter Wilson; William Tritton; Eugène Brillié,Military Technology,Other,military tank,walter wilson; william tritton; eugène brillié
+1916,Poland,Czochralski process,Jan Czochralski,Materials Science,Chemistry and Materials Science,czochralski process,jan czochralski
+1917,United States,crystal oscillator,Alexander M Nicholson,Electronic Engineering,Engineering and Technology,crystal oscillator,alexander m nicholson
+1925,Germany,Fischer–Tropsch process,Franz Fischer; Hans Tropsch,Chemical Engineering,Chemistry and Materials Science,fischer–tropsch process,franz fischer; hans tropsch
+1926,Japan,YagiUda Antenna,Shintaro Uda; Hidetsugu Yagi,Electrical Engineering,Engineering and Technology,yagiuda antenna,shintaro uda; hidetsugu yagi
+1926,United States,liquid fueled rocket,Robert H Goddard,Aerospace Engineering,Engineering and Technology,liquid fueled rocket,robert h goddard
+1926,Ireland,Threepoint hitch system,Harry Ferguson,Agricultural Engineering,Engineering and Technology,threepoint hitch system,harry ferguson
+1926,United Kingdom,live television system,John Logie Baird,Electronic Engineering,Engineering and Technology,live television system,john logie baird
+1927,United States,quartz clock,Warren Marrison; JW Horton,Electronic Engineering,Engineering and Technology,quartz clock,warren marrison; jw horton
+1928,Australia; United Kingdom,penicillin,Alexander Fleming; Howard Florey; Ernst Chain; Norman Heatley,Medicine,Life Sciences & Medicine,penicillin,alexander fleming; howard florey; ernst chain; norman heatley
+1928,United Kingdom,turbojet engine,Frank Whittle,Aerospace Engineering,Engineering and Technology,turbojet engine,frank whittle
+1928,United States,electronic television,Philo Farnsworth,Electronic Engineering,Engineering and Technology,electronic television,philo farnsworth
+1929,United States,ball screw,Rudolph G Boehm,Mechanical Engineering,Engineering and Technology,ball screw,rudolph g boehm
+1930,United Kingdom,supersonic combusting ramjet,Frank Whittle,Aerospace Engineering,Engineering and Technology,supersonic combusting ramjet,frank whittle
+1930,Netherlands,phasecontrast microscopy,Frits Zernike,Optics,Physical Sciences,phasecontrast microscopy,frits zernike
+1933,United States,FM radio,Edwin H Armstrong,Electronic Engineering,Engineering and Technology,fm radio,edwin h armstrong
+1933,United States,portable folding wheelchair,Harry C Jennings Sr; Herbert Everest,Medical Equipment,Life Sciences & Medicine,portable folding wheelchair,harry c jennings sr; herbert everest
+1935,United States,nylon,Wallace Carothers,Chemical Engineering,Chemistry and Materials Science,nylon,wallace carothers
+1938,Germany,Z1 computer,Konrad Zuse,Computer Science,Engineering and Technology,z1 computer,konrad zuse
+1939,Russia,electric current defibrillator,G S Yunyev  Naum Gurvich,Medicine,Life Sciences & Medicine,electric current defibrillator,g s yunyev naum gurvich
+1940,United States,Pu239 isotope,Glenn Seaborg,Nuclear Science,Physical Sciences,pu239 isotope,glenn seaborg
+1940,United Kingdom,cavity magnetron,John Randall; Harry Boot,Electronic Engineering,Engineering and Technology,cavity magnetron,john randall; harry boot
+1941,United Kingdom,polyester,John Rex Whinfield; James Dickson,Chemical Engineering,Chemistry and Materials Science,polyester,john rex whinfield; james dickson
+1942,Germany,V2 rocket,Wernher von Braun,Aerospace Engineering,Engineering and Technology,v2 rocket,wernher von braun
+1944,United States,noninfectious viral vaccine,Jonas Salk; Thomas Francis,Medicine,Life Sciences & Medicine,noninfectious viral vaccine,jonas salk; thomas francis
+1945,United States,atomic bomb,Manhattan Project,Nuclear Weapons,Physical Sciences,atomic bomb,manhattan project
+1945,United States,microwave oven,Percy Spencer,Microwave Technology,Other,microwave oven,percy spencer
+1946,United Kingdom,ejector seat,James Martin,Aviation Technology,Other,ejector seat,james martin
+1947,Hungarian; United Kingdom,holography,Dennis Gabor,Optics,Physical Sciences,holography,dennis gabor
+1947,United States,hydraulic fracturing technology,Floyd Farris; JB Clark,Oil and Gas,Other,hydraulic fracturing technology,floyd farris; jb clark
+1948,United States,atomic clock,National Bureau of Standards,Timekeeping Technology,Other,atomic clock,national bureau of standards
+1948,United States,basic oxygen steelmaking,Robert Durrer,Metallurgical Engineering,Chemistry and Materials Science,basic oxygen steelmaking,robert durrer
+1950,Canada,video game Bertie the Brain,Josef Kates,Video Games,Other,video game bertie brain,josef kates
+1950,Russia,Tokamak toroidal chamber with axial magnetic fields,Igor E Tamm; Andrei D Sakharov,Nuclear Fusion,Physical Sciences,tokamak toroidal chamber with axial magnetic fields,igor e tamm; andrei d sakharov
+1952,United Kingdom,float glass process,Alastair Pilkington,Materials Science,Chemistry and Materials Science,float glass process,alastair pilkington
+1952,United States,thermonuclear weapon,United States,Nuclear Weapons,Physical Sciences,thermonuclear weapon,united states
+1953,Japan,video tape recorder helical scan,Norikazu Sawazaki,Electronics,Other,video tape recorder helical scan,norikazu sawazaki
+1954,United States,solar battery,Calvin Souther Fuller; Daryl Chapin; Gerald Pearson,Renewable Energy,Other,solar battery,calvin souther fuller; daryl chapin; gerald pearson
+1955,United Kingdom,hovercraft,Christopher Cockerell,Transportation Engineering,Engineering and Technology,hovercraft,christopher cockerell
+1955,United States,intermodal container,Malcom McLean,Logistics,Other,intermodal container,malcom mclean
+1956,United States,hard disk drive,IBM,Computer Hardware,Engineering and Technology,hard disk drive,ibm
+1956,United States,Logic Theorist computer program,Allen Newell; Herbert A Simon; Cliff Shaw,Artificial Intelligence,Engineering and Technology,logic theorist computer program,allen newell; herbert a simon; cliff shaw
+1957,United States,laser and optical amplifier,Gordon Gould; Charles Townes,Optoelectronics,Other,laser optical amplifier,gordon gould; charles townes
+1957,United States,personal computer IBM 610,IBM,Computer Hardware,Engineering and Technology,personal computer ibm 610,ibm
+1957,Russia,artificial satellite Sputnik 1,Soviet Space Program,Space Technology,Other,artificial satellite sputnik 1,soviet space program
+1958,United States,integrated circuit,Jack Kilby; Robert Noyce,Electronics,Other,integrated circuit,jack kilby; robert noyce
+1959,Egyptian; Korean,MOSFET MOS transistor,Mohamed Atalla; Dawon Kahng,Semiconductor Technology,Other,mosfet mos transistor,mohamed atalla; dawon kahng
+1960,United States,first functioning laser,Theodore Maiman,Laser Technology,Other,functioning laser,theodore maiman
+1963,China; United States,electronic cigarette,Herbert A Gilbert; Hon Lik,Consumer Electronics,Other,electronic cigarette,herbert a gilbert; hon lik
+1964,Japan,Shinkansen highspeed rail,Japanese National Railways,Transportation Engineering,Engineering and Technology,shinkansen highspeed rail,japanese national railways
+1965,United States,Kevlar,Stephanie Kwolek,Materials Science,Chemistry and Materials Science,kevlar,stephanie kwolek
+1969,United Kingdom; United States,packet switching,Donald Davies; Paul Baran,Computer Networking,Engineering and Technology,packet switching,donald davies; paul baran
+1970,Israel; United Kingdom; United States,public‐key cryptography,James H Ellis; Clifford Cocks; Malcolm J Williamson; Whitfield Diffie; Martin Hellman; Ralph Merkle; Ron Rivest; Adi Shamir; Leonard Adleman,Cryptography,Engineering and Technology,public‐key cryptography,james h ellis; clifford cocks; malcolm j williamson; whitfield diffie; martin hellman; ralph merkle; ron rivest; adi shamir; leonard adleman
+1970,United States,pocket calculator,Texas Instruments,Electronics,Other,pocket calculator,texas instruments
+1971,Italy; United States,singlechip microprocessor Intel 4004,Federico Faggin,Computer Engineering,Engineering and Technology,singlechip microprocessor intel 4004,federico faggin
+1971,Russia,space station Salyut 1,Soviet Space Program,Space Technology,Other,space station salyut 1,soviet space program
+1971,United States,floppy disk and disk drive,IBM,Computer Hardware,Engineering and Technology,floppy disk disk drive,ibm
+1972,United States,video game console Magnavox Odyssey,Ralph H Baer,Video Games,Other,video game console magnavox odyssey,ralph h baer
+1973,United States,fiber optic communication systems,Optelecom,Telecommunications,Engineering and Technology,fiber optic communication systems,optelecom
+1973,United States,commercial graphical user interface GUI,Xerox PARC,Computer Interface,Engineering and Technology,commercial graphical user interface gui,xerox parc
+1973,Switzerland,capacitive touchscreen,CERN,Touchscreen Technology,Other,capacitive touchscreen,cern
+1974,United States,Transmission Control Program,Vinton Cerf; Robert E Kahn,Computer Networking,Engineering and Technology,transmission control program,vinton cerf; robert e kahn
+1974,France; Japan; United States,lithiumion battery,M Stanley Whittingham; John B Goodenough; Rachid Yazami; Akira Yoshino,Battery Technology,Other,lithiumion battery,m stanley whittingham; john b goodenough; rachid yazami; akira yoshino
+1974,Hungary,Rubiks cube,Ernő Rubik,Toy,Other,rubiks cube,ernő rubik
+1977,United Kingdom; United States,DNA sequencing method,Walter Gilbert; Frederick Sanger,Biotechnology,Life Sciences & Medicine,dna sequencing method,walter gilbert; frederick sanger
+1977,Japan,selfdriving car,Tsukuba Mechanical Engineering Laboratory,Automotive Technology,Other,selfdriving car,tsukuba mechanical engineering laboratory
+1978,United States,Global Positioning System GPS,United States Department of Defense,Navigation Technology,Other,global positioning system gps,united states department of defense
+1979,United States,handheld game console Microvision,Milton Bradley,Video Games,Other,handheld game console microvision,milton bradley
+1979,Japan,cellular network,Nippon Telegraph and Telephone NTT,Telecommunications,Engineering and Technology,cellular network,nippon telegraph and telephone ntt
+1979,United Kingdom; United States,public dialup informationmessaging services,CompuServe; RadioShacks MicroNET; Post Office Telecommunications Prestel,Information Technology,Other,public dialup informationmessaging services,compuserve; radioshacks micronet; post office telecommunications prestel
+1980,Japan,flash memory,Fujio Masuoka,Semiconductor Technology,Other,flash memory,fujio masuoka
+1980,United States,gene mapping tool using RFLP,Mark Skolnick; Ron Davis; Ray White; David Botstein,Genetics,Life Sciences & Medicine,gene mapping tool using rflp,mark skolnick; ron davis; ray white; david botstein
+1981,United States,Space Shuttle reusable spacecraft,NASA,Space Technology,Other,space shuttle reusable spacecraft,nasa
+1981,United Kingdom,IXI digital media player,Kane Kramer,Consumer Electronics,Other,ixi digital media player,kane kramer
+1981,Sweden,Nordic Mobile Telephone NMT system,Televerket,Telecommunications,Engineering and Technology,nordic mobile telephone nmt system,televerket
+1981,Sweden,automatic cellular system,Comvik,Telecommunications,Engineering and Technology,automatic cellular system,comvik
+1982,Dutch; Japan,CDROM,Sony and Philips,Data Storage,Other,cdrom,sony and philips
+1982,United Kingdom,directtohome satellite television Sky One,British Sky Broadcasting,Television Technology,Other,directtohome satellite television sky one,british sky broadcasting
+1982,Japan,laptop computer Epson HX20,Epson,Computer Hardware,Engineering and Technology,laptop computer epson hx20,epson
+1983,United States,stereolithography,Chuck Hull,3D Printing,Other,stereolithography,chuck hull
+1983,United States,commercialization of cellular network,Bell System AmeritechATT,Telecommunications,Engineering and Technology,commercialization cellular network,bell system ameritechatt
+1984,United States,cell phone DynaTAC 8000X,Motorola,Telecommunications,Engineering and Technology,cell phone dynatac 8000x,motorola
+1984,United Kingdom,DNA profiling,Alec Jeffreys,Biotechnology,Life Sciences & Medicine,dna profiling,alec jeffreys
+1986,United Kingdom,pocketsized cell phone Excell PCT105,Technophone,Telecommunications,Engineering and Technology,pocketsized cell phone excell pct105,technophone
+1989,Germany,audio compression algorithms MP3 AAC,Karlheinz Brandenburg,Audio Technology,Other,audio compression algorithms mp3 aac,karlheinz brandenburg
+1989,United Kingdom,World Wide Web,Tim BernersLee,Internet Technology,Other,world wide web,tim bernerslee
+1990,Japan,video game system Neo Geo AES,SNK,Video Games,Other,video game system neo geo aes,snk
+1990,Canada,search engine Archie,Alan Emtage,Internet Technology,Other,search engine archie,alan emtage
+1991,United States,flashbased solidstate drive,SunDisk,Computer Hardware,Engineering and Technology,flashbased solidstate drive,sundisk
+1991,Germany,SIM card,Giesecke  Devrient,Telecommunications,Engineering and Technology,sim card,giesecke devrient
+1993,United States,mobile app SIMON,IBM,Software,Engineering and Technology,mobile app simon,ibm
+1994,United States,smartphone IBM Simon,IBM,Mobile Technology,Other,smartphone ibm simon,ibm
+1994,Sweden,Bluetooth,Ericsson Mobile,Wireless Communication,Other,bluetooth,ericsson mobile
+1994,Denmark,mobile game Tetris variant on Hagenuk MT2000,Hagenuk,Video Games,Other,mobile game tetris variant hagenuk mt2000,hagenuk
+1995,Japan; Netherlands,DVD,Philips; Sony; Toshiba; Panasonic,Optical Storage,Other,dvd,philips; sony; toshiba; panasonic
+1995,United States,online dating site Matchcom,Matchcom,Internet Technology,Other,online dating site matchcom,matchcom
+1995,United States,online food ordering service Waitercom,Waitercom,Internet Technology,Other,online food ordering service waitercom,waitercom
+1996,United States,dense wavelengthdivision multiplexing system,Ciena Corporation; Sprint,Telecommunications,Engineering and Technology,dense wavelengthdivision multiplexing system,ciena corporation; sprint
+1996,Finland,mobile web Nokia 9000 Communicator,Nokia,Mobile Technology,Other,mobile web nokia 9000 communicator,nokia
+1996,United States,social media sites Bolt; Six Degrees,Bolt; Six Degrees,Internet Technology,Other,social media sites bolt; six degrees,bolt; six degrees
+1996,United States,BRACAnalysis genetic test,Myriad Genetics,Biotechnology,Life Sciences & Medicine,bracanalysis genetic test,myriad genetics
+1997,United States,weblog blog,Jorn Barger; Peter Merholz,Internet Technology,Other,weblog blog,jorn barger; peter merholz
+1998,South Korea,portable MP3 player,SaeHan Information Systems,Consumer Electronics,Other,portable mp3 player,saehan information systems
+1998,United States,search engine Google,Google,Internet Technology,Other,search engine google,google
+1999,United States,digital video recorder TiVo,Xperi,Consumer Electronics,Other,digital video recorder tivo,xperi
+1999,Japan,integrated online app store imode,NTT DoCoMo,Mobile Technology,Other,integrated online app store imode,ntt docomo
+2000,Japan,Bluray optical disc format,Sony,Optical Storage,Other,bluray optical disc format,sony
+2000,United States,geocaching,Dave Ulmer,Recreational Technology,Other,geocaching,dave ulmer
+2004,United States,podcast,Adam Curry; Dave Winer,Internet Technology,Other,podcast,adam curry; dave winer
+2005,United States,videostreaming site YouTube,YouTube,Internet Technology,Other,videostreaming site youtube,youtube
+2007,United States,videoondemand service,Netflix,Internet Technology,Other,videoondemand service,netflix
+2007,United States,iPhone,Apple Inc,Mobile Technology,Other,iphone,apple inc
+2007,United Kingdom,banking app,The Bank of Scotland,Financial Technology,Other,banking app,the bank of scotland
+2007,Germany,music ondemand service SoundCloud,SoundCloud,Internet Technology,Other,music ondemand service soundcloud,soundcloud
+2007,United States,ereader Kindle,Amazon Jeff Bezos,Consumer Electronics,Other,ereader kindle,amazon jeff bezos
+2008,Japan,blockchain,Satoshi Nakamoto,Cryptography,Engineering and Technology,blockchain,satoshi nakamoto
+2010,Japan,solar sail spacecraft IKAROS,JAXA,Space Technology,Other,solar sail spacecraft ikaros,jaxa
+2010,United States,quantum machine,IBM,Quantum Computing,Physical Sciences,quantum machine,ibm
+2010,United States,synthetic organism Mycoplasma laboratorium,J Craig Venter Institute,Biotechnology,Life Sciences & Medicine,synthetic organism mycoplasma laboratorium,j craig venter institute
+2011,United States,HIV treatment as prevention HPTN 052,HPTN 052 Study Group,Medicine,Life Sciences & Medicine,hiv treatment as prevention hptn 052,hptn 052 study group
+2013,Multiple,cancer immunotherapy,Multiple,Medicine,Life Sciences & Medicine,cancer immunotherapy,multiple
+2014,United States,NFT Quantum,Kevin McCoy; Anil Dash,Blockchain Technology,Other,nft quantum,kevin mccoy; anil dash
+2015,France; United States,CRISPR genomeediting method,Jennifer Doudna; Emmanuelle Charpentier,Biotechnology,Life Sciences & Medicine,crispr genomeediting method,jennifer doudna; emmanuelle charpentier
+2017,United States,transformer architecture,Google,Artificial Intelligence,Engineering and Technology,transformer architecture,google
+2018,Multiple,singlecell sequencing,Multiple,Biotechnology,Life Sciences & Medicine,singlecell sequencing,multiple
+2019,United States,integrated quantum computing system IBM Q System One,IBM,Quantum Computing,Physical Sciences,integrated quantum computing system ibm q system one,ibm
+2020,Germany; United States,mRNA vaccine for COVID19,Pfizer; BioNTech,Medicine,Life Sciences & Medicine,mrna vaccine covid19,pfizer; biontech
+2020,United States,GPT3 AI language model,OpenAI,Artificial Intelligence,Engineering and Technology,gpt3 ai language model,openai
+2021,United States,COVID pill,Pfizer,Medicine,Life Sciences & Medicine,covid pill,pfizer
+2022,United States,ChatGPT,OpenAI,Artificial Intelligence,Engineering and Technology,chatgpt,openai

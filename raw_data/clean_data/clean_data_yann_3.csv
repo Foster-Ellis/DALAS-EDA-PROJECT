@@ -259,7 +259,7 @@ Year,Country,Name of Invention,Name of Inventor,Category
 1984,United States,cell phone (DynaTAC 8000X),Motorola,Telecommunications
 1984,United Kingdom,DNA profiling,Alec Jeffreys,Biotechnology
 1986,United Kingdom,pocket-sized cell phone (Excell PCT105),Technophone,Telecommunications
-1989,Germany,audio compression algorithms (MP3, AAC),Karlheinz Brandenburg,Audio Technology
+1989,Germany,audio compression algorithms (MP3 AAC),Karlheinz Brandenburg,Audio Technology
 1989,United Kingdom,World Wide Web,Tim Berners-Lee,Internet Technology
 1990,Japan,video game system (Neo Geo AES),SNK,Video Games
 1990,Canada,search engine (Archie),Alan Emtage,Internet Technology
@@ -290,7 +290,7 @@ Year,Country,Name of Invention,Name of Inventor,Category
 2007,United Kingdom,banking app,The Bank of Scotland,Financial Technology
 2007,Germany,music on-demand service (SoundCloud),SoundCloud,Internet Technology
 2007,United States,e-reader (Kindle),Amazon (Jeff Bezos),Consumer Electronics
-2008,Unknown,blockchain,Satoshi Nakamoto,Cryptography
+2008,Japan,blockchain,Satoshi Nakamoto,Cryptography
 2010,Japan,solar sail spacecraft (IKAROS),JAXA,Space Technology
 2010,United States,quantum machine,IBM,Quantum Computing
 2010,United States,synthetic organism (Mycoplasma laboratorium),J. Craig Venter Institute,Biotechnology
