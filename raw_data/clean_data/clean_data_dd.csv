@@ -378,14 +378,13 @@ Year,Country,Name of Invention,Name of Inventor,Category,General_Category
 1898,France; Poland,Radium,Marie  Pierre Curie,Chemical Element,Chemistry & Materials
 1899,Germany,Aspirin,Dr Felix Hoffman,Pharmaceuticals,Life Sciences & Medicine
 1899,Sweden,NiCd NiFe AgCd batteries,Waldemar Jungner,Electrochemistry,Chemistry & Materials
-1900,Austria,Blood Group,Karl Landsteiner,Immunology,Life Sciences & Medicine
 1900,Canada; United States,amplitude modulation AM of radio waves,Reginald Aubrey Fessenden,Telecommunications,Information & Computing
 1900,Denmark,telegraphone magnetic wire recorder,Valdemar Poulsen,Audio Recording Device,Arts & Media
 1900,United Kingdom; United States,Animation,J Stuart Blackton,Film Technology,Arts & Media
 1900,Germany,Quantum theory proposed,Planck,Physics,Physical Sciences
 1900,Austria; Denmark; Germany,Quantum Mechanics; Quantum mechanics,Albert Einstein; Erwin Schrödinger; Max Planck; Niels Bohr; Werner Heisenberg,Physics; Theoretical Physics,Physical Sciences
 1900,Germany,Zeppelin,Theodor Kober,Aerospace Engineering,Engineering & Technology
-1901,Austrianamerican,Discovery of human blood groups,Landsteiner,Medicine,Life Sciences & Medicine
+1901,Austria; United States,Discovery of human blood groups,Landsteiner,Medicine,Life Sciences & Medicine
 1902,United States,airconditioning,Willis Haviland Carrier,Refrigeration Technology,Engineering & Technology
 1902,United States,Air Conditioner,Willis Carrier,Refrigeration Technology,Engineering & Technology
 1903,United States,Airplane,Wilbur and Orville Wright,Aviation Technology,Engineering & Technology
@@ -602,7 +601,7 @@ Year,Country,Name of Invention,Name of Inventor,Category,General_Category
 1958,United States,Optical Disc,David Paul Gregg,Optical Storage,Information & Computing
 1959,Egypt; South Korea,MOSFET MOS transistor,Mohamed Atalla; Dawon Kahng,Semiconductor Technology,Other
 1960,United States,ruby laser,Theodore H Maiman,Laser Technology,Other
-1960,United States,First laser; Laser,Maiman; Theodore H Maiman,Optoelectronics; Physics,Other; Physical Sciences
+1960,United States,First laser; Laser,Maiman; Theodore H Maiman, Physics, Physical Sciences
 1960,United States,first functioning laser,Theodore Maiman,Laser Technology,Other
 1960,United Kingdom,Discoveries of fossils of early Homo in East Africa,Leakeys and others,Anthropology,Social Sciences & Humanities
 1961,Czechia,Soft Contact lenses,Otto Wichterle,Medical Equipment,Life Sciences & Medicine
@@ -755,4 +754,3 @@ Year,Country,Name of Invention,Name of Inventor,Category,General_Category
 2020,Germany; United States,mRNA vaccine for COVID19,Pfizer; BioNTech,Medicine,Life Sciences & Medicine
 2020,United States,GPT3 AI language model,OpenAI,Artificial Intelligence,Information & Computing
 2021,United States,COVID pill,Pfizer,Medicine,Life Sciences & Medicine
-2022,United States,ChatGPT,OpenAI,Artificial Intelligence,Information & Computing
