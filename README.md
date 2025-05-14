@@ -1,14 +1,13 @@
 # DALAS-EDA-PROJECT
 
-This repository contains our exploratory data analysis work for the DALAS class at Sorbonne Université. We collect, clean, and visualize data on scientific inventions and discoveries over time. The project is organized into three main parts: data scraping, data cleaning, and data visualization. Each part lives in its own folder under `src`, and the raw and processed data files are stored in `raw_data`.
+This project is for the DALAS class at Sorbonne Université. It focuses on collecting, cleaning, and visualizing data about scientific inventions and discoveries over time. The work is divided into three parts: data scraping, cleaning, and visualization. Each part is stored in separate folders under `src`, with raw and processed data in `raw_data`.
 
-In the `src/scrape_script` folder, we have two notebooks: `data_scrappe_balam.ipynb` and `data_scrappe_yann.ipynb`. The Balam notebook extracts data from some websites andPDF sources, while the Yann notebook scrapes tables, timeline blocks, and list items from three different websites. Each scraper writes its results into `raw_data/scrape_data` as CSV files.
+The `src/scrape_script` folder has notebooks that scrape data from websites and PDFs, saving results as CSV files in `raw_data/scrape_data`.
 
-The `src/clean_scripts` folder contains `data_clean.ipynb`. This notebook reads all raw CSV files, merges them into a single table, and applies a series of cleaning steps. We remove extra punctuation, standardize country names with a lookup mapping, generalize detailed invention categories into broader fields, normalize text fields for later deduplication, and then apply a fuzzy-matching algorithm to merge near-duplicate records. The final cleaned dataset is saved as `raw_data/clean_data/clean_data_dd.csv`.
+The `src/clean_scripts` folder contains a notebook that merges and cleans all raw data. It standardizes country names, groups invention categories, normalizes text, and removes duplicates using fuzzy matching. The cleaned data is saved as `raw_data/clean_data/clean_data_dd.csv`.
 
-Under `src/visualization_scripts`, there are two notebooks: `visual_script_balam.ipynb` and `visual_script_yan.ipynb`. These notebooks load the cleaned data and produce a variety of plots. We start with a bar chart of annual counts, add a rolling mean trend line, and then explore discoveries by country in sixty-year bins using bubble charts and heatmaps. We also examine category distributions with pie charts, perform event annotations on time series, compare before-and-after periods with statistical tests, and analyze decadal trends and correlations among top invention fields. Finally, we use PCA and hierarchical clustering to reveal patterns in country-category profiles.
+The `src/visualization_scripts` folder has notebooks that load the cleaned data and create charts such as annual counts, rolling trends, country-based bubbles, heatmaps, pie charts, and statistical comparisons. It also uses PCA and clustering to find patterns.
 
-You can reproduce the analysis by running the scraper notebooks first, then the data cleaning notebook, and finally the visualization notebooks. All Python dependencies are listed in `requirements.txt`. The raw source files and intermediate outputs are under `raw_data`, while the notebooks in `src` contain code and explanatory text. This structure makes it easy to follow each step of our data pipeline from scraping to final charts.
-
+To reproduce the analysis, run the scraping notebooks first, then the cleaning notebook, and finally the visualization notebooks. Dependencies are listed in `requirements.txt`. The clear folder structure helps follow the full data workflow.
 
 ![alt text](assets/image.png)
