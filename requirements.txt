@@ -6,3 +6,4 @@ pdfplumber
 lxml
 pandas
 fuzzywuzzy
+seaborn
